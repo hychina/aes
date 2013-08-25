@@ -1,0 +1,4596 @@
+removed feature: tree_uh
+alpha: 0.3
+cv score: 0.754080113553
+validset score: 0.705842481333
+
+removed feature: word_level
+alpha: 0.5
+cv score: 0.61454071897
+validset score: 0.729958918668
+
+removed feature: wdCnt
+alpha: 0.1
+cv score: 0.754976787542
+validset score: 0.705706667434
+
+removed feature: nunCnt
+alpha: 0.2
+cv score: 0.75382483851
+validset score: 0.7045281403
+
+removed feature: lexical_diversity
+alpha: 0.7
+cv score: 0.753310715141
+validset score: 0.707613897672
+
+removed feature: lWdCnt
+alpha: 0.1
+cv score: 0.755160810496
+validset score: 0.702867043066
+
+removed feature: StsCnt
+alpha: 1.1
+cv score: 0.752628344704
+validset score: 0.708174925697
+
+removed feature: verbCnt
+alpha: 0.2
+cv score: 0.750665494056
+validset score: 0.703974413377
+
+removed feature: ttr1
+alpha: 0.6
+cv score: 0.743819274606
+validset score: 0.693674198208
+
+removed feature: punCnt
+alpha: 1.1
+cv score: 0.75229114505
+validset score: 0.70934816932
+
+removed feature: adjCnt
+alpha: 0.1
+cv score: 0.753110195037
+validset score: 0.703152837837
+
+removed feature: tree_npvp
+alpha: 0.8
+cv score: 0.75253352023
+validset score: 0.707448524911
+
+removed feature: tree_depth
+alpha: 0.1
+cv score: 0.74331122754
+validset score: 0.700356961698
+
+removed feature: tree_to
+alpha: 0.6
+cv score: 0.745647303948
+validset score: 0.688655260544
+
+removed feature: tree_md
+alpha: 0.7
+cv score: 0.750184854551
+validset score: 0.705332898792
+
+removed feature: cmaCnt
+alpha: 0.2
+cv score: 0.753625284982
+validset score: 0.704762895492
+
+removed feature: ttr2
+alpha: 0.4
+cv score: 0.751278497864
+validset score: 0.699680453831
+
+removed feature: readability5
+alpha: 0.2
+cv score: 0.752940685904
+validset score: 0.705499672336
+
+removed feature: tree_grammerErr
+alpha: 0.9
+cv score: 0.749827520586
+validset score: 0.696739280675
+
+removed feature: tree_jrbrs
+alpha: 1.3
+cv score: 0.753299936217
+validset score: 0.708409949866
+
+removed feature: tree_cc
+alpha: 0.3
+cv score: 0.746126952271
+validset score: 0.692212168275
+
+removed feature: tree_nodeCount
+alpha: 0.4
+cv score: 0.75374753608
+validset score: 0.706285382882
+
+removed feature: avgGErrSpan
+alpha: 0.1
+cv score: 0.753318870049
+validset score: 0.704341036124
+
+removed feature: nbDptSD
+alpha: 0.3
+cv score: 0.753144581521
+validset score: 0.705830208978
+
+removed feature: tree_wh
+alpha: 0.5
+cv score: 0.75174817434
+validset score: 0.70278187833
+
+removed feature: mlc
+alpha: 0.2
+cv score: 0.75359309764
+validset score: 0.706267630205
+
+removed feature: sErrCnt
+alpha: 0.3
+cv score: 0.753224405276
+validset score: 0.705341778101
+
+removed feature: sErrTypes
+alpha: 0.4
+cv score: 0.754094821764
+validset score: 0.704928975653
+
+removed feature: readability3
+alpha: 0.3
+cv score: 0.753202079246
+validset score: 0.705231025875
+
+removed feature: readability1
+alpha: 1.0
+cv score: 0.752822493039
+validset score: 0.706128971754
+
+removed feature: advCnt
+alpha: 0.1
+cv score: 0.753556207265
+validset score: 0.702975838595
+
+removed feature: avgDpt
+alpha: 1.1
+cv score: 0.752636439388
+validset score: 0.70675143442
+
+removed feature: mlt
+alpha: 0.2
+cv score: 0.753685199965
+validset score: 0.703013423208
+
+removed feature: gErrCnt
+alpha: 0.2
+cv score: 0.754610339896
+validset score: 0.704445341904
+
+removed feature: vbgCnt
+alpha: 0.3
+cv score: 0.752661389435
+validset score: 0.705335585331
+
+removed feature: gErrTypes
+alpha: 0.4
+cv score: 0.753307302004
+validset score: 0.704087251193
+
+removed feature: mls
+alpha: 0.4
+cv score: 0.7536944087
+validset score: 0.706195216612
+
+removed feature: dc_t
+alpha: 0.2
+cv score: 0.753736552484
+validset score: 0.704443213214
+
+removed feature: ct_t
+alpha: 0.4
+cv score: 0.753217318761
+validset score: 0.706548382112
+
+removed feature: c_s
+alpha: 0.4
+cv score: 0.753300519313
+validset score: 0.708060718498
+
+removed feature: gErrSpanSum
+alpha: 0.1
+cv score: 0.753465707098
+validset score: 0.706382483703
+
+removed feature: spelling_error
+alpha: 1.1
+cv score: 0.753729804315
+validset score: 0.708185559917
+
+removed feature: dc_c
+alpha: 0.5
+cv score: 0.753671707301
+validset score: 0.70701495274
+
+removed feature: readability2
+alpha: 0.5
+cv score: 0.753654607322
+validset score: 0.708263922792
+
+removed feature: gErrDen
+alpha: 0.3
+cv score: 0.753559927868
+validset score: 0.70679039977
+
+removed feature: dptSD
+alpha: 0.2
+cv score: 0.753580917784
+validset score: 0.704748407489
+
+removed feature: c_t
+alpha: 0.2
+cv score: 0.753584459694
+validset score: 0.704108145881
+
+removed feature: vp_t
+alpha: 0.2
+cv score: 0.753460990248
+validset score: 0.705390680611
+
+removed feature: wdLen
+alpha: 0.8
+cv score: 0.752474838184
+validset score: 0.705191365831
+
+removed feature: cn_c
+alpha: 0.2
+cv score: 0.753751139886
+validset score: 0.705295706524
+
+removed feature: verbal_phrases
+alpha: 0.3
+cv score: 0.753809337943
+validset score: 0.705573405918
+
+removed feature: nbDptD
+alpha: 0.2
+cv score: 0.753622561574
+validset score: 0.704458758585
+
+removed feature: cn_t
+alpha: 0.2
+cv score: 0.753693142837
+validset score: 0.705608071373
+
+removed feature: cp_t
+alpha: 0.3
+cv score: 0.753662348966
+validset score: 0.705855075011
+
+removed feature: readability4
+alpha: 0.4
+cv score: 0.753603191149
+validset score: 0.704941304219
+
+removed feature: cp_c
+alpha: 0.5
+cv score: 0.753099549388
+validset score: 0.704396823887
+
+removed feature: t_s
+alpha: 0.3
+cv score: 0.753598255529
+validset score: 0.702428282902
+
+
+已经将特征lWdCnt删除
+removed feature: tree_uh
+alpha: 0.1
+cv score: 0.755339245967
+validset score: 0.702479785344
+
+removed feature: word_level
+alpha: 0.1
+cv score: 0.615930008497
+validset score: 0.720649751386
+
+removed feature: wdCnt
+alpha: 0.1
+cv score: 0.756241267246
+validset score: 0.704399411264
+
+removed feature: nunCnt
+alpha: 0.2
+cv score: 0.755770180207
+validset score: 0.70334631873
+
+removed feature: lexical_diversity
+alpha: 0.2
+cv score: 0.754917648942
+validset score: 0.704483178682
+
+removed feature: StsCnt
+alpha: 0.1
+cv score: 0.754254819749
+validset score: 0.708130256706
+
+removed feature: verbCnt
+alpha: 0.1
+cv score: 0.752572454958
+validset score: 0.703843771855
+
+removed feature: ttr1
+alpha: 0.1
+cv score: 0.746335061624
+validset score: 0.687003089162
+
+removed feature: punCnt
+alpha: 0.2
+cv score: 0.753487258652
+validset score: 0.708349938352
+
+removed feature: adjCnt
+alpha: 0.2
+cv score: 0.755275361054
+validset score: 0.703463135107
+
+removed feature: tree_npvp
+alpha: 0.4
+cv score: 0.753721123301
+validset score: 0.705136835321
+
+removed feature: tree_depth
+alpha: 0.1
+cv score: 0.745593258929
+validset score: 0.700619229283
+
+removed feature: tree_to
+alpha: 0.1
+cv score: 0.747481396116
+validset score: 0.681346207632
+
+removed feature: tree_md
+alpha: 0.8
+cv score: 0.750936973353
+validset score: 0.705237502873
+
+removed feature: cmaCnt
+alpha: 0.1
+cv score: 0.755216060375
+validset score: 0.702763255446
+
+removed feature: ttr2
+alpha: 0.2
+cv score: 0.754228895534
+validset score: 0.69702797968
+
+removed feature: readability5
+alpha: 0.2
+cv score: 0.754876851271
+validset score: 0.705130981438
+
+removed feature: tree_grammerErr
+alpha: 0.2
+cv score: 0.750526861769
+validset score: 0.695379104647
+
+removed feature: tree_jrbrs
+alpha: 0.1
+cv score: 0.75504752514
+validset score: 0.702610539154
+
+removed feature: tree_cc
+alpha: 0.2
+cv score: 0.748159211065
+validset score: 0.690421154189
+
+removed feature: tree_nodeCount
+alpha: 0.4
+cv score: 0.755634713203
+validset score: 0.705240853852
+
+removed feature: avgGErrSpan
+alpha: 0.1
+cv score: 0.755179320106
+validset score: 0.703890003107
+
+removed feature: nbDptSD
+alpha: 0.2
+cv score: 0.754762239154
+validset score: 0.70353002543
+
+removed feature: tree_wh
+alpha: 0.1
+cv score: 0.753357617363
+validset score: 0.698770894205
+
+removed feature: mlc
+alpha: 0.3
+cv score: 0.755294649581
+validset score: 0.706008586915
+
+removed feature: sErrCnt
+alpha: 0.4
+cv score: 0.75498672347
+validset score: 0.705353365352
+
+removed feature: sErrTypes
+alpha: 0.1
+cv score: 0.755678055401
+validset score: 0.701971088382
+
+removed feature: readability3
+alpha: 0.3
+cv score: 0.755188963371
+validset score: 0.704503544886
+
+removed feature: readability1
+alpha: 0.4
+cv score: 0.754314521565
+validset score: 0.705243974225
+
+removed feature: advCnt
+alpha: 0.1
+cv score: 0.755451335209
+validset score: 0.702265813309
+
+removed feature: avgDpt
+alpha: 0.4
+cv score: 0.754158455069
+validset score: 0.707291177623
+
+removed feature: mlt
+alpha: 0.1
+cv score: 0.755320364794
+validset score: 0.702093002555
+
+removed feature: gErrCnt
+alpha: 0.2
+cv score: 0.756193161936
+validset score: 0.704041360062
+
+removed feature: vbgCnt
+alpha: 0.5
+cv score: 0.754326651541
+validset score: 0.706292168773
+
+removed feature: gErrTypes
+alpha: 0.2
+cv score: 0.755174151512
+validset score: 0.701816350901
+
+removed feature: mls
+alpha: 0.2
+cv score: 0.755501488696
+validset score: 0.703070069948
+
+removed feature: dc_t
+alpha: 0.4
+cv score: 0.755341930028
+validset score: 0.705701438185
+
+removed feature: ct_t
+alpha: 0.2
+cv score: 0.754982046619
+validset score: 0.705841479217
+
+removed feature: c_s
+alpha: 0.3
+cv score: 0.755030175367
+validset score: 0.708119630086
+
+removed feature: gErrSpanSum
+alpha: 0.1
+cv score: 0.754500128694
+validset score: 0.705678736979
+
+removed feature: spelling_error
+alpha: 0.3
+cv score: 0.755390045982
+validset score: 0.704763899819
+
+removed feature: dc_c
+alpha: 0.2
+cv score: 0.755334061078
+validset score: 0.703993227375
+
+removed feature: readability2
+alpha: 0.1
+cv score: 0.755050080659
+validset score: 0.703926781179
+
+removed feature: gErrDen
+alpha: 0.1
+cv score: 0.755442460971
+validset score: 0.704113239985
+
+removed feature: dptSD
+alpha: 0.1
+cv score: 0.755416477527
+validset score: 0.702861628429
+
+removed feature: c_t
+alpha: 0.1
+cv score: 0.755302547081
+validset score: 0.702762569933
+
+removed feature: vp_t
+alpha: 0.3
+cv score: 0.754973130495
+validset score: 0.705940396702
+
+removed feature: wdLen
+alpha: 0.1
+cv score: 0.753604925171
+validset score: 0.698442175491
+
+removed feature: cn_c
+alpha: 0.1
+cv score: 0.755537625144
+validset score: 0.702744916494
+
+removed feature: verbal_phrases
+alpha: 0.1
+cv score: 0.755103436929
+validset score: 0.702176424251
+
+removed feature: nbDptD
+alpha: 0.1
+cv score: 0.755281051229
+validset score: 0.70277643001
+
+removed feature: cn_t
+alpha: 0.4
+cv score: 0.755451143578
+validset score: 0.706953059777
+
+removed feature: cp_t
+alpha: 0.1
+cv score: 0.755304826926
+validset score: 0.702667893584
+
+removed feature: readability4
+alpha: 0.4
+cv score: 0.755716462018
+validset score: 0.704464460469
+
+removed feature: cp_c
+alpha: 0.1
+cv score: 0.75473957491
+validset score: 0.701734437389
+
+removed feature: t_s
+alpha: 0.1
+cv score: 0.755318558962
+validset score: 0.700358319893
+
+
+已经将特征wdCnt删除
+removed feature: tree_uh
+alpha: 0.1
+cv score: 0.756233076331
+validset score: 0.704083133185
+
+removed feature: word_level
+alpha: 0.1
+cv score: 0.617545836873
+validset score: 0.724663625824
+
+removed feature: nunCnt
+alpha: 0.1
+cv score: 0.753781476309
+validset score: 0.703209535942
+
+removed feature: lexical_diversity
+alpha: 0.1
+cv score: 0.755989065341
+validset score: 0.704683364806
+
+removed feature: StsCnt
+alpha: 0.1
+cv score: 0.755186816908
+validset score: 0.707599815746
+
+removed feature: verbCnt
+alpha: 0.2
+cv score: 0.753455397819
+validset score: 0.704024035319
+
+removed feature: ttr1
+alpha: 0.2
+cv score: 0.747068310389
+validset score: 0.689596842321
+
+removed feature: punCnt
+alpha: 1.2
+cv score: 0.754584177267
+validset score: 0.707335294069
+
+removed feature: adjCnt
+alpha: 0.3
+cv score: 0.755359303823
+validset score: 0.704978472724
+
+removed feature: tree_npvp
+alpha: 0.1
+cv score: 0.754696555872
+validset score: 0.704431978674
+
+removed feature: tree_depth
+alpha: 0.2
+cv score: 0.746666231649
+validset score: 0.700538909722
+
+removed feature: tree_to
+alpha: 0.1
+cv score: 0.748601472022
+validset score: 0.684306612496
+
+removed feature: tree_md
+alpha: 0.1
+cv score: 0.751996418095
+validset score: 0.701653615126
+
+removed feature: cmaCnt
+alpha: 0.1
+cv score: 0.756241296837
+validset score: 0.704516028978
+
+removed feature: ttr2
+alpha: 0.1
+cv score: 0.754507354205
+validset score: 0.698101657665
+
+removed feature: readability5
+alpha: 0.1
+cv score: 0.755429859152
+validset score: 0.704554552441
+
+removed feature: tree_grammerErr
+alpha: 0.1
+cv score: 0.7517685708
+validset score: 0.693980775296
+
+removed feature: tree_jrbrs
+alpha: 0.2
+cv score: 0.755762497533
+validset score: 0.705035976909
+
+removed feature: tree_cc
+alpha: 0.1
+cv score: 0.749500623123
+validset score: 0.691465221648
+
+removed feature: tree_nodeCount
+alpha: 0.2
+cv score: 0.756256509129
+validset score: 0.705233738743
+
+removed feature: avgGErrSpan
+alpha: 0.1
+cv score: 0.755899472073
+validset score: 0.705026690973
+
+removed feature: nbDptSD
+alpha: 0.2
+cv score: 0.755620984762
+validset score: 0.705668434781
+
+removed feature: tree_wh
+alpha: 0.2
+cv score: 0.754230296689
+validset score: 0.700353418367
+
+removed feature: mlc
+alpha: 0.1
+cv score: 0.75625013798
+validset score: 0.704964081937
+
+removed feature: sErrCnt
+alpha: 0.1
+cv score: 0.756015075607
+validset score: 0.703697863192
+
+removed feature: sErrTypes
+alpha: 0.1
+cv score: 0.756846291878
+validset score: 0.703638197654
+
+removed feature: readability3
+alpha: 0.1
+cv score: 0.75553692138
+validset score: 0.704279169983
+
+removed feature: readability1
+alpha: 0.4
+cv score: 0.755024292769
+validset score: 0.70452128705
+
+removed feature: advCnt
+alpha: 0.2
+cv score: 0.756264776011
+validset score: 0.705182454498
+
+removed feature: avgDpt
+alpha: 0.2
+cv score: 0.754942427737
+validset score: 0.706734938656
+
+removed feature: mlt
+alpha: 0.1
+cv score: 0.756180998556
+validset score: 0.702901072552
+
+removed feature: gErrCnt
+alpha: 0.1
+cv score: 0.757080826372
+validset score: 0.704185891067
+
+removed feature: vbgCnt
+alpha: 0.2
+cv score: 0.754845797058
+validset score: 0.705070408253
+
+removed feature: gErrTypes
+alpha: 0.1
+cv score: 0.755769286917
+validset score: 0.702710392664
+
+removed feature: mls
+alpha: 0.1
+cv score: 0.756436889867
+validset score: 0.703836222158
+
+removed feature: dc_t
+alpha: 0.1
+cv score: 0.756159279771
+validset score: 0.704511039564
+
+removed feature: ct_t
+alpha: 0.1
+cv score: 0.755719868321
+validset score: 0.705522798969
+
+removed feature: c_s
+alpha: 0.1
+cv score: 0.755961701095
+validset score: 0.707194050079
+
+removed feature: gErrSpanSum
+alpha: 0.1
+cv score: 0.754865564624
+validset score: 0.707082569187
+
+removed feature: spelling_error
+alpha: 0.1
+cv score: 0.756368769194
+validset score: 0.70432366235
+
+removed feature: dc_c
+alpha: 0.1
+cv score: 0.75634224427
+validset score: 0.705355202596
+
+removed feature: readability2
+alpha: 0.2
+cv score: 0.755568531038
+validset score: 0.706852333508
+
+removed feature: gErrDen
+alpha: 0.2
+cv score: 0.756418486011
+validset score: 0.705759221527
+
+removed feature: dptSD
+alpha: 0.1
+cv score: 0.756244214412
+validset score: 0.704480531932
+
+removed feature: c_t
+alpha: 0.1
+cv score: 0.756351979948
+validset score: 0.704972031938
+
+removed feature: vp_t
+alpha: 0.1
+cv score: 0.755523645255
+validset score: 0.706184901646
+
+removed feature: wdLen
+alpha: 0.2
+cv score: 0.754083774057
+validset score: 0.701442973387
+
+removed feature: cn_c
+alpha: 0.1
+cv score: 0.756440838643
+validset score: 0.704816165443
+
+removed feature: verbal_phrases
+alpha: 0.1
+cv score: 0.755814904064
+validset score: 0.703910592293
+
+removed feature: nbDptD
+alpha: 0.1
+cv score: 0.756197844518
+validset score: 0.704438485849
+
+removed feature: cn_t
+alpha: 0.1
+cv score: 0.756284689466
+validset score: 0.705210204041
+
+removed feature: cp_t
+alpha: 0.1
+cv score: 0.75622186307
+validset score: 0.704333292171
+
+removed feature: readability4
+alpha: 0.2
+cv score: 0.756064234781
+validset score: 0.704563532051
+
+removed feature: cp_c
+alpha: 0.2
+cv score: 0.754976372604
+validset score: 0.702916956981
+
+removed feature: t_s
+alpha: 0.1
+cv score: 0.756172600903
+validset score: 0.701773534146
+
+
+已经将特征gErrCnt删除
+removed feature: tree_uh
+alpha: 0.1
+cv score: 0.757203974338
+validset score: 0.70400171126
+
+removed feature: word_level
+alpha: 0.1
+cv score: 0.618774602616
+validset score: 0.724565811672
+
+removed feature: nunCnt
+alpha: 0.1
+cv score: 0.754753647636
+validset score: 0.703656537182
+
+removed feature: lexical_diversity
+alpha: 0.1
+cv score: 0.757161889176
+validset score: 0.704832184941
+
+removed feature: StsCnt
+alpha: 0.1
+cv score: 0.756270706001
+validset score: 0.707304831535
+
+removed feature: verbCnt
+alpha: 0.3
+cv score: 0.75431914588
+validset score: 0.704035994366
+
+removed feature: ttr1
+alpha: 0.3
+cv score: 0.748358224686
+validset score: 0.691848655806
+
+removed feature: punCnt
+alpha: 0.1
+cv score: 0.755574385551
+validset score: 0.709132194288
+
+removed feature: adjCnt
+alpha: 0.1
+cv score: 0.756631127528
+validset score: 0.703665021989
+
+removed feature: tree_npvp
+alpha: 0.2
+cv score: 0.75562276766
+validset score: 0.704135358483
+
+removed feature: tree_depth
+alpha: 0.1
+cv score: 0.747675707415
+validset score: 0.700716498565
+
+removed feature: tree_to
+alpha: 0.1
+cv score: 0.749596704235
+validset score: 0.684741762671
+
+removed feature: tree_md
+alpha: 0.4
+cv score: 0.753280104591
+validset score: 0.702913988957
+
+removed feature: cmaCnt
+alpha: 0.1
+cv score: 0.757107543631
+validset score: 0.704120876693
+
+removed feature: ttr2
+alpha: 0.1
+cv score: 0.755550461877
+validset score: 0.698240971251
+
+removed feature: readability5
+alpha: 0.2
+cv score: 0.756557529006
+validset score: 0.705720745617
+
+removed feature: tree_grammerErr
+alpha: 0.1
+cv score: 0.75374808404
+validset score: 0.693230563277
+
+removed feature: tree_jrbrs
+alpha: 0.1
+cv score: 0.756926740157
+validset score: 0.704013269829
+
+removed feature: tree_cc
+alpha: 0.1
+cv score: 0.750316027359
+validset score: 0.691426002286
+
+removed feature: tree_nodeCount
+alpha: 0.2
+cv score: 0.757278189061
+validset score: 0.705083890161
+
+removed feature: avgGErrSpan
+alpha: 0.1
+cv score: 0.756832614509
+validset score: 0.704957937165
+
+removed feature: nbDptSD
+alpha: 0.1
+cv score: 0.756807357828
+validset score: 0.705425123504
+
+removed feature: tree_wh
+alpha: 0.1
+cv score: 0.7551868984
+validset score: 0.700055482835
+
+removed feature: mlc
+alpha: 0.1
+cv score: 0.757138234423
+validset score: 0.705738073107
+
+removed feature: sErrCnt
+alpha: 0.1
+cv score: 0.757123940883
+validset score: 0.704518537981
+
+removed feature: sErrTypes
+alpha: 0.1
+cv score: 0.75781441958
+validset score: 0.703706526923
+
+removed feature: readability3
+alpha: 0.1
+cv score: 0.756936182704
+validset score: 0.704374008476
+
+removed feature: readability1
+alpha: 0.2
+cv score: 0.75579679
+validset score: 0.704012027734
+
+removed feature: advCnt
+alpha: 0.1
+cv score: 0.757295416478
+validset score: 0.704185891067
+
+removed feature: avgDpt
+alpha: 0.1
+cv score: 0.756017518525
+validset score: 0.707146102379
+
+removed feature: mlt
+alpha: 0.1
+cv score: 0.75736856019
+validset score: 0.702852322107
+
+removed feature: vbgCnt
+alpha: 0.2
+cv score: 0.75557565901
+validset score: 0.704425038354
+
+removed feature: gErrTypes
+alpha: 0.2
+cv score: 0.756509095078
+validset score: 0.703348774275
+
+removed feature: mls
+alpha: 0.1
+cv score: 0.757252430242
+validset score: 0.704343402519
+
+removed feature: dc_t
+alpha: 0.1
+cv score: 0.757061216056
+validset score: 0.704296542245
+
+removed feature: ct_t
+alpha: 0.2
+cv score: 0.756692865253
+validset score: 0.705918606489
+
+removed feature: c_s
+alpha: 0.2
+cv score: 0.756974290791
+validset score: 0.707936204471
+
+removed feature: gErrSpanSum
+alpha: 0.1
+cv score: 0.75574737692
+validset score: 0.706703072313
+
+removed feature: spelling_error
+alpha: 0.1
+cv score: 0.757215008008
+validset score: 0.704120533961
+
+removed feature: dc_c
+alpha: 0.1
+cv score: 0.757044004452
+validset score: 0.705116297611
+
+removed feature: readability2
+alpha: 0.1
+cv score: 0.756820485584
+validset score: 0.70562879906
+
+removed feature: gErrDen
+alpha: 0.2
+cv score: 0.75696034321
+validset score: 0.706639417582
+
+removed feature: dptSD
+alpha: 0.2
+cv score: 0.756968203893
+validset score: 0.705454006621
+
+removed feature: c_t
+alpha: 0.1
+cv score: 0.757211692921
+validset score: 0.704854913024
+
+removed feature: vp_t
+alpha: 0.1
+cv score: 0.756657318636
+validset score: 0.706322576212
+
+removed feature: wdLen
+alpha: 0.1
+cv score: 0.755337959855
+validset score: 0.700648392017
+
+removed feature: cn_c
+alpha: 0.1
+cv score: 0.757280249094
+validset score: 0.704642691171
+
+removed feature: verbal_phrases
+alpha: 0.1
+cv score: 0.756892965287
+validset score: 0.703965093201
+
+removed feature: nbDptD
+alpha: 0.1
+cv score: 0.757006037406
+validset score: 0.704211915708
+
+removed feature: cn_t
+alpha: 0.1
+cv score: 0.757291983856
+validset score: 0.705223548115
+
+removed feature: cp_t
+alpha: 0.1
+cv score: 0.757056308629
+validset score: 0.704049370826
+
+removed feature: readability4
+alpha: 0.1
+cv score: 0.75725556805
+validset score: 0.703936098911
+
+removed feature: cp_c
+alpha: 0.1
+cv score: 0.756124585094
+validset score: 0.702736309313
+
+removed feature: t_s
+alpha: 0.1
+cv score: 0.757142446948
+validset score: 0.702066680952
+
+
+已经将特征sErrTypes删除
+removed feature: tree_uh
+alpha: 0.1
+cv score: 0.757805717461
+validset score: 0.703826159375
+
+removed feature: word_level
+alpha: 0.1
+cv score: 0.620589987414
+validset score: 0.723526990245
+
+removed feature: nunCnt
+alpha: 0.2
+cv score: 0.756020768421
+validset score: 0.702489715216
+
+removed feature: lexical_diversity
+alpha: 0.1
+cv score: 0.757521382914
+validset score: 0.703218176417
+
+removed feature: StsCnt
+alpha: 0.3
+cv score: 0.757222556881
+validset score: 0.706204237744
+
+removed feature: verbCnt
+alpha: 0.1
+cv score: 0.755694903994
+validset score: 0.701365301198
+
+removed feature: ttr1
+alpha: 0.4
+cv score: 0.749926405478
+validset score: 0.69183069173
+
+removed feature: punCnt
+alpha: 0.2
+cv score: 0.756452092042
+validset score: 0.707814432287
+
+removed feature: adjCnt
+alpha: 0.1
+cv score: 0.757237221062
+validset score: 0.702754023935
+
+removed feature: tree_npvp
+alpha: 0.1
+cv score: 0.756495290547
+validset score: 0.702925618557
+
+removed feature: tree_depth
+alpha: 0.1
+cv score: 0.748968420608
+validset score: 0.699001612441
+
+removed feature: tree_to
+alpha: 0.1
+cv score: 0.750341069749
+validset score: 0.683530658209
+
+removed feature: tree_md
+alpha: 0.2
+cv score: 0.754304119358
+validset score: 0.701127277692
+
+removed feature: cmaCnt
+alpha: 0.1
+cv score: 0.757730287769
+validset score: 0.703249155378
+
+removed feature: ttr2
+alpha: 0.1
+cv score: 0.7565053297
+validset score: 0.696589106953
+
+removed feature: readability5
+alpha: 0.1
+cv score: 0.75728323315
+validset score: 0.703315725657
+
+removed feature: tree_grammerErr
+alpha: 0.2
+cv score: 0.754237518044
+validset score: 0.693210766942
+
+removed feature: tree_jrbrs
+alpha: 0.1
+cv score: 0.757564540217
+validset score: 0.703017200679
+
+removed feature: tree_cc
+alpha: 0.1
+cv score: 0.752369712417
+validset score: 0.689857922395
+
+removed feature: tree_nodeCount
+alpha: 0.1
+cv score: 0.758072767985
+validset score: 0.703614095397
+
+removed feature: avgGErrSpan
+alpha: 0.1
+cv score: 0.757803311376
+validset score: 0.703889716782
+
+removed feature: nbDptSD
+alpha: 0.1
+cv score: 0.757475346556
+validset score: 0.703940536224
+
+removed feature: tree_wh
+alpha: 0.1
+cv score: 0.756455239814
+validset score: 0.698567488322
+
+removed feature: mlc
+alpha: 0.1
+cv score: 0.757734155376
+validset score: 0.704051539805
+
+removed feature: sErrCnt
+alpha: 0.1
+cv score: 0.755864273088
+validset score: 0.69673317595
+
+removed feature: readability3
+alpha: 0.2
+cv score: 0.757482721517
+validset score: 0.704359713052
+
+removed feature: readability1
+alpha: 0.1
+cv score: 0.756790161822
+validset score: 0.70211499077
+
+removed feature: advCnt
+alpha: 0.1
+cv score: 0.757821246046
+validset score: 0.703840581424
+
+removed feature: avgDpt
+alpha: 0.1
+cv score: 0.756871341224
+validset score: 0.704335255152
+
+removed feature: mlt
+alpha: 0.1
+cv score: 0.757732858371
+validset score: 0.700893607514
+
+removed feature: vbgCnt
+alpha: 0.1
+cv score: 0.756877934725
+validset score: 0.702442784757
+
+removed feature: gErrTypes
+alpha: 0.1
+cv score: 0.757463657252
+validset score: 0.701300940662
+
+removed feature: mls
+alpha: 0.1
+cv score: 0.758103423828
+validset score: 0.70406119735
+
+removed feature: dc_t
+alpha: 0.1
+cv score: 0.757643910857
+validset score: 0.703822477474
+
+removed feature: ct_t
+alpha: 0.1
+cv score: 0.757348109481
+validset score: 0.703929697443
+
+removed feature: c_s
+alpha: 0.2
+cv score: 0.757592277046
+validset score: 0.706810607283
+
+removed feature: gErrSpanSum
+alpha: 0.3
+cv score: 0.756931406767
+validset score: 0.706170337146
+
+removed feature: spelling_error
+alpha: 0.1
+cv score: 0.757897179755
+validset score: 0.704118486327
+
+removed feature: dc_c
+alpha: 0.1
+cv score: 0.75767622475
+validset score: 0.703991882287
+
+removed feature: readability2
+alpha: 0.1
+cv score: 0.757904165186
+validset score: 0.704347225575
+
+removed feature: gErrDen
+alpha: 0.2
+cv score: 0.757523800953
+validset score: 0.704961497115
+
+removed feature: dptSD
+alpha: 0.1
+cv score: 0.757891548918
+validset score: 0.703706526923
+
+removed feature: c_t
+alpha: 0.1
+cv score: 0.757828017383
+validset score: 0.703920090295
+
+removed feature: vp_t
+alpha: 0.1
+cv score: 0.757159011734
+validset score: 0.704365392326
+
+removed feature: wdLen
+alpha: 0.3
+cv score: 0.755748165278
+validset score: 0.701373664681
+
+removed feature: cn_c
+alpha: 0.1
+cv score: 0.758114723576
+validset score: 0.704038765367
+
+removed feature: verbal_phrases
+alpha: 0.1
+cv score: 0.757767095735
+validset score: 0.703097549172
+
+removed feature: nbDptD
+alpha: 0.1
+cv score: 0.758076331612
+validset score: 0.703600570836
+
+removed feature: cn_t
+alpha: 0.1
+cv score: 0.757986766377
+validset score: 0.703802405886
+
+removed feature: cp_t
+alpha: 0.1
+cv score: 0.757956462392
+validset score: 0.703857634241
+
+removed feature: readability4
+alpha: 0.2
+cv score: 0.757852688042
+validset score: 0.703568813097
+
+removed feature: cp_c
+alpha: 0.1
+cv score: 0.756878307829
+validset score: 0.700666575567
+
+removed feature: t_s
+alpha: 0.1
+cv score: 0.757852277559
+validset score: 0.700118057626
+
+
+已经将特征cn_c删除
+removed feature: tree_uh
+alpha: 0.1
+cv score: 0.758099038587
+validset score: 0.704095816838
+
+removed feature: word_level
+alpha: 0.1
+cv score: 0.62081185933
+validset score: 0.723439115592
+
+removed feature: nunCnt
+alpha: 0.2
+cv score: 0.756060496414
+validset score: 0.703111309745
+
+removed feature: lexical_diversity
+alpha: 0.5
+cv score: 0.75756168616
+validset score: 0.705368067551
+
+removed feature: StsCnt
+alpha: 0.4
+cv score: 0.757427746294
+validset score: 0.70668713024
+
+removed feature: verbCnt
+alpha: 0.1
+cv score: 0.756082157509
+validset score: 0.701085759165
+
+removed feature: ttr1
+alpha: 0.2
+cv score: 0.750047769856
+validset score: 0.691518569986
+
+removed feature: punCnt
+alpha: 0.2
+cv score: 0.756789296857
+validset score: 0.70698526844
+
+removed feature: adjCnt
+alpha: 0.1
+cv score: 0.757462370372
+validset score: 0.703223589882
+
+removed feature: tree_npvp
+alpha: 0.1
+cv score: 0.756735538865
+validset score: 0.703041045562
+
+removed feature: tree_depth
+alpha: 0.1
+cv score: 0.749118437689
+validset score: 0.698983850399
+
+removed feature: tree_to
+alpha: 0.1
+cv score: 0.750229602998
+validset score: 0.684985694328
+
+removed feature: tree_md
+alpha: 0.2
+cv score: 0.754433140716
+validset score: 0.701078790832
+
+removed feature: cmaCnt
+alpha: 0.1
+cv score: 0.757942593829
+validset score: 0.703764501037
+
+removed feature: ttr2
+alpha: 0.1
+cv score: 0.756616633944
+validset score: 0.697361023472
+
+removed feature: readability5
+alpha: 0.1
+cv score: 0.757536000648
+validset score: 0.703185047719
+
+removed feature: tree_grammerErr
+alpha: 0.2
+cv score: 0.754498134878
+validset score: 0.693533518101
+
+removed feature: tree_jrbrs
+alpha: 0.1
+cv score: 0.757849672609
+validset score: 0.702954511802
+
+removed feature: tree_cc
+alpha: 0.1
+cv score: 0.752669439479
+validset score: 0.689265015433
+
+removed feature: tree_nodeCount
+alpha: 0.1
+cv score: 0.758233443251
+validset score: 0.703594373418
+
+removed feature: avgGErrSpan
+alpha: 0.1
+cv score: 0.758138998375
+validset score: 0.704045699328
+
+removed feature: nbDptSD
+alpha: 0.2
+cv score: 0.757774014623
+validset score: 0.703587185319
+
+removed feature: tree_wh
+alpha: 0.1
+cv score: 0.756903742233
+validset score: 0.698989989096
+
+removed feature: mlc
+alpha: 0.1
+cv score: 0.758096169656
+validset score: 0.703929915399
+
+removed feature: sErrCnt
+alpha: 0.1
+cv score: 0.756115271617
+validset score: 0.696493430995
+
+removed feature: readability3
+alpha: 0.1
+cv score: 0.757719828428
+validset score: 0.703270286026
+
+removed feature: readability1
+alpha: 0.1
+cv score: 0.757055983003
+validset score: 0.702059961413
+
+removed feature: advCnt
+alpha: 0.1
+cv score: 0.758268549546
+validset score: 0.703828809449
+
+removed feature: avgDpt
+alpha: 0.2
+cv score: 0.757303150881
+validset score: 0.704234913069
+
+removed feature: mlt
+alpha: 0.2
+cv score: 0.757970240968
+validset score: 0.702890629702
+
+removed feature: vbgCnt
+alpha: 0.1
+cv score: 0.757046873166
+validset score: 0.70259795261
+
+removed feature: gErrTypes
+alpha: 0.1
+cv score: 0.757525016601
+validset score: 0.701299208163
+
+removed feature: mls
+alpha: 0.1
+cv score: 0.758529244185
+validset score: 0.703962407334
+
+removed feature: dc_t
+alpha: 0.1
+cv score: 0.75811422182
+validset score: 0.704118368565
+
+removed feature: ct_t
+alpha: 0.2
+cv score: 0.757673187228
+validset score: 0.704408579809
+
+removed feature: c_s
+alpha: 0.2
+cv score: 0.75766825943
+validset score: 0.7063637431
+
+removed feature: gErrSpanSum
+alpha: 0.3
+cv score: 0.757346108489
+validset score: 0.706007229571
+
+removed feature: spelling_error
+alpha: 0.1
+cv score: 0.758064251038
+validset score: 0.704169983444
+
+removed feature: dc_c
+alpha: 0.3
+cv score: 0.758075365796
+validset score: 0.704460298158
+
+removed feature: readability2
+alpha: 0.1
+cv score: 0.758184255754
+validset score: 0.704265735191
+
+removed feature: gErrDen
+alpha: 0.1
+cv score: 0.757897085511
+validset score: 0.70505342472
+
+removed feature: dptSD
+alpha: 0.1
+cv score: 0.758089322212
+validset score: 0.704046730419
+
+removed feature: c_t
+alpha: 0.1
+cv score: 0.758160368245
+validset score: 0.70411224968
+
+removed feature: vp_t
+alpha: 0.1
+cv score: 0.757265493848
+validset score: 0.704583533027
+
+removed feature: wdLen
+alpha: 0.1
+cv score: 0.755946568992
+validset score: 0.70021528648
+
+removed feature: verbal_phrases
+alpha: 0.1
+cv score: 0.757939815616
+validset score: 0.702786916905
+
+removed feature: nbDptD
+alpha: 0.1
+cv score: 0.75824534725
+validset score: 0.704179536697
+
+removed feature: cn_t
+alpha: 0.1
+cv score: 0.758023407135
+validset score: 0.703858141775
+
+removed feature: cp_t
+alpha: 0.1
+cv score: 0.75834768478
+validset score: 0.704158828359
+
+removed feature: readability4
+alpha: 0.2
+cv score: 0.758281709046
+validset score: 0.7041897296
+
+removed feature: cp_c
+alpha: 0.1
+cv score: 0.756950792048
+validset score: 0.700763287712
+
+removed feature: t_s
+alpha: 0.1
+cv score: 0.758187654569
+validset score: 0.700558031466
+
+
+已经将特征mls删除
+removed feature: tree_uh
+alpha: 0.1
+cv score: 0.758606012349
+validset score: 0.703817800359
+
+removed feature: word_level
+alpha: 0.1
+cv score: 0.620757277611
+validset score: 0.721594976152
+
+removed feature: nunCnt
+alpha: 0.3
+cv score: 0.756513187943
+validset score: 0.703918051125
+
+removed feature: lexical_diversity
+alpha: 0.2
+cv score: 0.758017889736
+validset score: 0.70451092515
+
+removed feature: StsCnt
+alpha: 0.1
+cv score: 0.757964727737
+validset score: 0.706485227219
+
+removed feature: verbCnt
+alpha: 0.2
+cv score: 0.756284749476
+validset score: 0.700509477032
+
+removed feature: ttr1
+alpha: 0.1
+cv score: 0.750793685519
+validset score: 0.694523812578
+
+removed feature: punCnt
+alpha: 0.2
+cv score: 0.757098052991
+validset score: 0.707460026984
+
+removed feature: adjCnt
+alpha: 0.1
+cv score: 0.757819746772
+validset score: 0.702529663415
+
+removed feature: tree_npvp
+alpha: 0.1
+cv score: 0.756692794052
+validset score: 0.702943828693
+
+removed feature: tree_depth
+alpha: 0.1
+cv score: 0.748788234388
+validset score: 0.688307167548
+
+removed feature: tree_to
+alpha: 0.1
+cv score: 0.750350589035
+validset score: 0.682670432499
+
+removed feature: tree_md
+alpha: 0.1
+cv score: 0.754883074363
+validset score: 0.698815142054
+
+removed feature: cmaCnt
+alpha: 0.1
+cv score: 0.758375897476
+validset score: 0.703514081343
+
+removed feature: ttr2
+alpha: 0.1
+cv score: 0.757236837596
+validset score: 0.699570299209
+
+removed feature: readability5
+alpha: 0.1
+cv score: 0.757914321505
+validset score: 0.70344754979
+
+removed feature: tree_grammerErr
+alpha: 0.3
+cv score: 0.755281681826
+validset score: 0.695090025451
+
+removed feature: tree_jrbrs
+alpha: 0.2
+cv score: 0.758253035668
+validset score: 0.703884879213
+
+removed feature: tree_cc
+alpha: 0.1
+cv score: 0.752831870827
+validset score: 0.686897451482
+
+removed feature: tree_nodeCount
+alpha: 0.1
+cv score: 0.758439943328
+validset score: 0.704250295807
+
+removed feature: avgGErrSpan
+alpha: 0.1
+cv score: 0.758626970763
+validset score: 0.703793939405
+
+removed feature: nbDptSD
+alpha: 0.3
+cv score: 0.757994500048
+validset score: 0.703885669229
+
+removed feature: tree_wh
+alpha: 0.1
+cv score: 0.757030044574
+validset score: 0.698521556018
+
+removed feature: mlc
+alpha: 0.1
+cv score: 0.758493290647
+validset score: 0.703907212215
+
+removed feature: sErrCnt
+alpha: 0.1
+cv score: 0.756665528737
+validset score: 0.696238150394
+
+removed feature: readability3
+alpha: 0.3
+cv score: 0.758164456106
+validset score: 0.704759786791
+
+removed feature: readability1
+alpha: 0.1
+cv score: 0.757502827706
+validset score: 0.702470970355
+
+removed feature: advCnt
+alpha: 0.1
+cv score: 0.758700069622
+validset score: 0.703919682676
+
+removed feature: avgDpt
+alpha: 0.1
+cv score: 0.7575087453
+validset score: 0.704134750761
+
+removed feature: mlt
+alpha: 0.1
+cv score: 0.758261869534
+validset score: 0.701435944556
+
+removed feature: vbgCnt
+alpha: 0.1
+cv score: 0.757400916428
+validset score: 0.701624661819
+
+removed feature: gErrTypes
+alpha: 0.1
+cv score: 0.758058484376
+validset score: 0.701080337894
+
+removed feature: dc_t
+alpha: 0.1
+cv score: 0.758635391131
+validset score: 0.70382586059
+
+removed feature: ct_t
+alpha: 0.2
+cv score: 0.758059030781
+validset score: 0.704588739298
+
+removed feature: c_s
+alpha: 0.2
+cv score: 0.758025402156
+validset score: 0.706676461806
+
+removed feature: gErrSpanSum
+alpha: 0.3
+cv score: 0.757727058011
+validset score: 0.705596857239
+
+removed feature: spelling_error
+alpha: 0.1
+cv score: 0.758372360361
+validset score: 0.704480248728
+
+removed feature: dc_c
+alpha: 0.3
+cv score: 0.758432948696
+validset score: 0.70447660977
+
+removed feature: readability2
+alpha: 0.1
+cv score: 0.758521228544
+validset score: 0.704149151062
+
+removed feature: gErrDen
+alpha: 0.2
+cv score: 0.758117069668
+validset score: 0.705245594541
+
+removed feature: dptSD
+alpha: 0.2
+cv score: 0.758554934592
+validset score: 0.704454728679
+
+removed feature: c_t
+alpha: 0.1
+cv score: 0.758558004336
+validset score: 0.70389575142
+
+removed feature: vp_t
+alpha: 0.1
+cv score: 0.757646898484
+validset score: 0.704761968057
+
+removed feature: wdLen
+alpha: 0.1
+cv score: 0.756252401616
+validset score: 0.701627252741
+
+removed feature: verbal_phrases
+alpha: 0.1
+cv score: 0.758283991701
+validset score: 0.703076084561
+
+removed feature: nbDptD
+alpha: 0.2
+cv score: 0.75874337233
+validset score: 0.704567664038
+
+removed feature: cn_t
+alpha: 0.1
+cv score: 0.758487151645
+validset score: 0.704085209318
+
+removed feature: cp_t
+alpha: 0.1
+cv score: 0.758570044524
+validset score: 0.703788204846
+
+removed feature: readability4
+alpha: 0.1
+cv score: 0.758590846936
+validset score: 0.702919846256
+
+removed feature: cp_c
+alpha: 0.1
+cv score: 0.75731797676
+validset score: 0.700520431043
+
+removed feature: t_s
+alpha: 0.1
+cv score: 0.758620393071
+validset score: 0.700561965673
+
+
+已经将特征nbDptD删除
+removed feature: tree_uh
+alpha: 0.2
+cv score: 0.758738669705
+validset score: 0.704593830659
+
+removed feature: word_level
+alpha: 0.1
+cv score: 0.62104771073
+validset score: 0.720941527499
+
+removed feature: nunCnt
+alpha: 0.2
+cv score: 0.756668143683
+validset score: 0.702805288095
+
+removed feature: lexical_diversity
+alpha: 0.1
+cv score: 0.758184741375
+validset score: 0.703640703719
+
+removed feature: StsCnt
+alpha: 0.2
+cv score: 0.758000487833
+validset score: 0.706782124104
+
+removed feature: verbCnt
+alpha: 0.3
+cv score: 0.756368249144
+validset score: 0.701222984608
+
+removed feature: ttr1
+alpha: 0.1
+cv score: 0.750833234919
+validset score: 0.691126372365
+
+removed feature: punCnt
+alpha: 0.2
+cv score: 0.757301168623
+validset score: 0.707498959142
+
+removed feature: adjCnt
+alpha: 0.1
+cv score: 0.758048199535
+validset score: 0.702785693661
+
+removed feature: tree_npvp
+alpha: 0.1
+cv score: 0.75694249525
+validset score: 0.703274543149
+
+removed feature: tree_depth
+alpha: 0.1
+cv score: 0.748102443454
+validset score: 0.688602151693
+
+removed feature: tree_to
+alpha: 0.1
+cv score: 0.750908016077
+validset score: 0.682534206523
+
+removed feature: tree_md
+alpha: 0.2
+cv score: 0.755091785198
+validset score: 0.699756137579
+
+removed feature: cmaCnt
+alpha: 0.2
+cv score: 0.758588709891
+validset score: 0.704055606973
+
+removed feature: ttr2
+alpha: 0.1
+cv score: 0.757287948083
+validset score: 0.699081104669
+
+removed feature: readability5
+alpha: 0.1
+cv score: 0.75794200696
+validset score: 0.703427151023
+
+removed feature: tree_grammerErr
+alpha: 0.1
+cv score: 0.755163945991
+validset score: 0.693450461352
+
+removed feature: tree_jrbrs
+alpha: 0.1
+cv score: 0.758474298967
+validset score: 0.702936715537
+
+removed feature: tree_cc
+alpha: 0.1
+cv score: 0.752344493162
+validset score: 0.686446526026
+
+removed feature: tree_nodeCount
+alpha: 0.1
+cv score: 0.758464189111
+validset score: 0.704179045042
+
+removed feature: avgGErrSpan
+alpha: 0.1
+cv score: 0.758840242639
+validset score: 0.703804508266
+
+removed feature: nbDptSD
+alpha: 0.4
+cv score: 0.758116842045
+validset score: 0.704662815564
+
+removed feature: tree_wh
+alpha: 0.2
+cv score: 0.757026130701
+validset score: 0.699123753542
+
+removed feature: mlc
+alpha: 0.1
+cv score: 0.758839570348
+validset score: 0.703835508769
+
+removed feature: sErrCnt
+alpha: 0.1
+cv score: 0.756556718989
+validset score: 0.697456220374
+
+removed feature: readability3
+alpha: 0.2
+cv score: 0.758180876216
+validset score: 0.703790142372
+
+removed feature: readability1
+alpha: 0.1
+cv score: 0.757476265986
+validset score: 0.702363029213
+
+removed feature: advCnt
+alpha: 0.2
+cv score: 0.758724331786
+validset score: 0.704207379332
+
+removed feature: avgDpt
+alpha: 0.1
+cv score: 0.757074844768
+validset score: 0.704889957729
+
+removed feature: mlt
+alpha: 0.1
+cv score: 0.758543687304
+validset score: 0.701518176289
+
+removed feature: vbgCnt
+alpha: 0.1
+cv score: 0.757593865749
+validset score: 0.701707350289
+
+removed feature: gErrTypes
+alpha: 0.1
+cv score: 0.758075805437
+validset score: 0.701246026175
+
+removed feature: dc_t
+alpha: 0.1
+cv score: 0.758782195863
+validset score: 0.703580456806
+
+removed feature: ct_t
+alpha: 0.1
+cv score: 0.75816817602
+validset score: 0.704573537148
+
+removed feature: c_s
+alpha: 0.1
+cv score: 0.758337725225
+validset score: 0.706877734196
+
+removed feature: gErrSpanSum
+alpha: 0.2
+cv score: 0.757904934095
+validset score: 0.705179393805
+
+removed feature: spelling_error
+alpha: 0.1
+cv score: 0.758733951085
+validset score: 0.704406571184
+
+removed feature: dc_c
+alpha: 0.2
+cv score: 0.758689657945
+validset score: 0.704941212858
+
+removed feature: readability2
+alpha: 0.2
+cv score: 0.758293069136
+validset score: 0.703902484831
+
+removed feature: gErrDen
+alpha: 0.2
+cv score: 0.758549166363
+validset score: 0.705342576343
+
+removed feature: dptSD
+alpha: 0.1
+cv score: 0.758818529964
+validset score: 0.703772390879
+
+removed feature: c_t
+alpha: 0.1
+cv score: 0.758753484039
+validset score: 0.704077142201
+
+removed feature: vp_t
+alpha: 0.2
+cv score: 0.757800702447
+validset score: 0.705341576742
+
+removed feature: wdLen
+alpha: 0.1
+cv score: 0.756649565218
+validset score: 0.701764172674
+
+removed feature: verbal_phrases
+alpha: 0.1
+cv score: 0.758505777694
+validset score: 0.702919151728
+
+removed feature: cn_t
+alpha: 0.1
+cv score: 0.758684617094
+validset score: 0.704121820623
+
+removed feature: cp_t
+alpha: 0.1
+cv score: 0.758770254859
+validset score: 0.703838590744
+
+removed feature: readability4
+alpha: 0.1
+cv score: 0.758728490324
+validset score: 0.702914831362
+
+removed feature: cp_c
+alpha: 0.1
+cv score: 0.757414577433
+validset score: 0.700520431043
+
+removed feature: t_s
+alpha: 0.1
+cv score: 0.758849707941
+validset score: 0.700754597655
+
+
+已经将特征t_s删除
+removed feature: tree_uh
+alpha: 0.2
+cv score: 0.759007240786
+validset score: 0.700501091435
+
+removed feature: word_level
+alpha: 0.1
+cv score: 0.621365108774
+validset score: 0.715629746572
+
+removed feature: nunCnt
+alpha: 0.1
+cv score: 0.756961492869
+validset score: 0.700899496864
+
+removed feature: lexical_diversity
+alpha: 0.1
+cv score: 0.758400266117
+validset score: 0.700693939277
+
+removed feature: StsCnt
+alpha: 0.2
+cv score: 0.758214010951
+validset score: 0.70554457139
+
+removed feature: verbCnt
+alpha: 0.3
+cv score: 0.756556271256
+validset score: 0.698224155158
+
+removed feature: ttr1
+alpha: 0.1
+cv score: 0.75113426005
+validset score: 0.689681893468
+
+removed feature: punCnt
+alpha: 0.1
+cv score: 0.757591817565
+validset score: 0.706661439015
+
+removed feature: adjCnt
+alpha: 0.1
+cv score: 0.758193555339
+validset score: 0.699968483885
+
+removed feature: tree_npvp
+alpha: 0.1
+cv score: 0.757057009061
+validset score: 0.701850869415
+
+removed feature: tree_depth
+alpha: 0.1
+cv score: 0.748152975509
+validset score: 0.695771374101
+
+removed feature: tree_to
+alpha: 0.1
+cv score: 0.750922775399
+validset score: 0.679206116127
+
+removed feature: tree_md
+alpha: 0.1
+cv score: 0.755069720545
+validset score: 0.69531848422
+
+removed feature: cmaCnt
+alpha: 0.2
+cv score: 0.758568209668
+validset score: 0.700782414086
+
+removed feature: ttr2
+alpha: 0.1
+cv score: 0.757689834304
+validset score: 0.694774094749
+
+removed feature: readability5
+alpha: 0.1
+cv score: 0.758048417097
+validset score: 0.701273293717
+
+removed feature: tree_grammerErr
+alpha: 0.1
+cv score: 0.755318993097
+validset score: 0.690661641364
+
+removed feature: tree_jrbrs
+alpha: 0.2
+cv score: 0.758508688301
+validset score: 0.699711286948
+
+removed feature: tree_cc
+alpha: 0.1
+cv score: 0.752446455598
+validset score: 0.69089877701
+
+removed feature: tree_nodeCount
+alpha: 0.1
+cv score: 0.758601069151
+validset score: 0.701035669359
+
+removed feature: avgGErrSpan
+alpha: 0.1
+cv score: 0.758870556418
+validset score: 0.700615897735
+
+removed feature: nbDptSD
+alpha: 0.1
+cv score: 0.757999125632
+validset score: 0.700808858437
+
+removed feature: tree_wh
+alpha: 0.2
+cv score: 0.75703035848
+validset score: 0.6971305166
+
+removed feature: mlc
+alpha: 0.1
+cv score: 0.758757721664
+validset score: 0.701724585188
+
+removed feature: sErrCnt
+alpha: 0.1
+cv score: 0.756729497433
+validset score: 0.692787800559
+
+removed feature: readability3
+alpha: 0.1
+cv score: 0.758205518138
+validset score: 0.700829609096
+
+removed feature: readability1
+alpha: 0.1
+cv score: 0.757562995245
+validset score: 0.700034492143
+
+removed feature: advCnt
+alpha: 0.1
+cv score: 0.758707739976
+validset score: 0.700681265503
+
+removed feature: avgDpt
+alpha: 0.1
+cv score: 0.757199745583
+validset score: 0.705664506849
+
+removed feature: mlt
+alpha: 0.1
+cv score: 0.758802158959
+validset score: 0.699876715347
+
+removed feature: vbgCnt
+alpha: 0.1
+cv score: 0.757806839677
+validset score: 0.699261053142
+
+removed feature: gErrTypes
+alpha: 0.2
+cv score: 0.758166781289
+validset score: 0.699044316031
+
+removed feature: dc_t
+alpha: 0.1
+cv score: 0.758823128791
+validset score: 0.700686817789
+
+removed feature: ct_t
+alpha: 0.1
+cv score: 0.758128219827
+validset score: 0.702721698013
+
+removed feature: c_s
+alpha: 0.1
+cv score: 0.757944981591
+validset score: 0.703697894161
+
+removed feature: gErrSpanSum
+alpha: 0.1
+cv score: 0.757832201492
+validset score: 0.703780810892
+
+removed feature: spelling_error
+alpha: 0.1
+cv score: 0.758826551411
+validset score: 0.701009465136
+
+removed feature: dc_c
+alpha: 0.2
+cv score: 0.758700896736
+validset score: 0.701062847049
+
+removed feature: readability2
+alpha: 0.1
+cv score: 0.75843317129
+validset score: 0.700581643498
+
+removed feature: gErrDen
+alpha: 0.1
+cv score: 0.758536923252
+validset score: 0.700905445437
+
+removed feature: dptSD
+alpha: 0.1
+cv score: 0.758816014587
+validset score: 0.700757327258
+
+removed feature: c_t
+alpha: 0.1
+cv score: 0.758880570066
+validset score: 0.701262547717
+
+removed feature: vp_t
+alpha: 0.3
+cv score: 0.757852202084
+validset score: 0.70373145649
+
+removed feature: wdLen
+alpha: 0.1
+cv score: 0.756596291621
+validset score: 0.697768872219
+
+removed feature: verbal_phrases
+alpha: 0.1
+cv score: 0.758566087405
+validset score: 0.699883502361
+
+removed feature: cn_t
+alpha: 0.1
+cv score: 0.75862761543
+validset score: 0.700537694801
+
+removed feature: cp_t
+alpha: 0.1
+cv score: 0.758843552079
+validset score: 0.700544409288
+
+removed feature: readability4
+alpha: 0.1
+cv score: 0.758683539138
+validset score: 0.700088363189
+
+removed feature: cp_c
+alpha: 0.1
+cv score: 0.757537972815
+validset score: 0.698958869258
+
+
+已经将特征tree_uh删除
+removed feature: word_level
+alpha: 0.1
+cv score: 0.622515259004
+validset score: 0.716515366243
+
+removed feature: nunCnt
+alpha: 0.1
+cv score: 0.756892365394
+validset score: 0.700618987576
+
+removed feature: lexical_diversity
+alpha: 0.1
+cv score: 0.758678115228
+validset score: 0.700693939277
+
+removed feature: StsCnt
+alpha: 0.5
+cv score: 0.75822601336
+validset score: 0.705885265497
+
+removed feature: verbCnt
+alpha: 0.1
+cv score: 0.756962219309
+validset score: 0.696328972852
+
+removed feature: ttr1
+alpha: 0.2
+cv score: 0.751143160265
+validset score: 0.689369754756
+
+removed feature: punCnt
+alpha: 0.1
+cv score: 0.757741223755
+validset score: 0.70695828813
+
+removed feature: adjCnt
+alpha: 0.1
+cv score: 0.758346175153
+validset score: 0.699990210954
+
+removed feature: tree_npvp
+alpha: 0.1
+cv score: 0.757425569177
+validset score: 0.701462311333
+
+removed feature: tree_depth
+alpha: 0.2
+cv score: 0.749032824632
+validset score: 0.696074718107
+
+removed feature: tree_to
+alpha: 0.3
+cv score: 0.751548090184
+validset score: 0.681838674439
+
+removed feature: tree_md
+alpha: 0.2
+cv score: 0.755294695626
+validset score: 0.696831279623
+
+removed feature: cmaCnt
+alpha: 0.2
+cv score: 0.7588168586
+validset score: 0.700896443212
+
+removed feature: ttr2
+alpha: 0.1
+cv score: 0.757172316506
+validset score: 0.69385568718
+
+removed feature: readability5
+alpha: 0.1
+cv score: 0.757693890617
+validset score: 0.701933274805
+
+removed feature: tree_grammerErr
+alpha: 0.1
+cv score: 0.755997473396
+validset score: 0.690407466343
+
+removed feature: tree_jrbrs
+alpha: 0.2
+cv score: 0.758718605492
+validset score: 0.699496025456
+
+removed feature: tree_cc
+alpha: 0.1
+cv score: 0.752550532027
+validset score: 0.689503874059
+
+removed feature: tree_nodeCount
+alpha: 0.2
+cv score: 0.758672334961
+validset score: 0.70222759343
+
+removed feature: avgGErrSpan
+alpha: 0.1
+cv score: 0.75881720964
+validset score: 0.700339949491
+
+removed feature: nbDptSD
+alpha: 0.1
+cv score: 0.758298748114
+validset score: 0.700679318404
+
+removed feature: tree_wh
+alpha: 0.2
+cv score: 0.757231574433
+validset score: 0.697388230105
+
+removed feature: mlc
+alpha: 0.1
+cv score: 0.759028460002
+validset score: 0.701814942586
+
+removed feature: sErrCnt
+alpha: 0.1
+cv score: 0.756969342153
+validset score: 0.692884104229
+
+removed feature: readability3
+alpha: 0.1
+cv score: 0.758528446851
+validset score: 0.700775387606
+
+removed feature: readability1
+alpha: 0.1
+cv score: 0.757354365926
+validset score: 0.699836125806
+
+removed feature: advCnt
+alpha: 0.2
+cv score: 0.758901155113
+validset score: 0.700681660864
+
+removed feature: avgDpt
+alpha: 0.1
+cv score: 0.757564977608
+validset score: 0.705801228784
+
+removed feature: mlt
+alpha: 0.2
+cv score: 0.758977581059
+validset score: 0.700820696004
+
+removed feature: vbgCnt
+alpha: 0.1
+cv score: 0.757668417834
+validset score: 0.699257238676
+
+removed feature: gErrTypes
+alpha: 0.1
+cv score: 0.758513758844
+validset score: 0.698278694237
+
+removed feature: dc_t
+alpha: 0.2
+cv score: 0.75898818701
+validset score: 0.700540408612
+
+removed feature: ct_t
+alpha: 0.1
+cv score: 0.758569224279
+validset score: 0.702704109604
+
+removed feature: c_s
+alpha: 0.1
+cv score: 0.757997074449
+validset score: 0.703340285538
+
+removed feature: gErrSpanSum
+alpha: 0.3
+cv score: 0.757936271054
+validset score: 0.704187901068
+
+removed feature: spelling_error
+alpha: 0.1
+cv score: 0.758994425129
+validset score: 0.701009465136
+
+removed feature: dc_c
+alpha: 0.1
+cv score: 0.758794052624
+validset score: 0.700149182666
+
+removed feature: readability2
+alpha: 0.1
+cv score: 0.758650183612
+validset score: 0.700615191105
+
+removed feature: gErrDen
+alpha: 0.2
+cv score: 0.758595148713
+validset score: 0.7023758566
+
+removed feature: dptSD
+alpha: 0.1
+cv score: 0.758941119333
+validset score: 0.700730134261
+
+removed feature: c_t
+alpha: 0.1
+cv score: 0.759013278981
+validset score: 0.701262547717
+
+removed feature: vp_t
+alpha: 0.1
+cv score: 0.757913567644
+validset score: 0.701586558505
+
+removed feature: wdLen
+alpha: 0.5
+cv score: 0.756570726263
+validset score: 0.699921920237
+
+removed feature: verbal_phrases
+alpha: 0.1
+cv score: 0.758724206904
+validset score: 0.699911878194
+
+removed feature: cn_t
+alpha: 0.1
+cv score: 0.759186270196
+validset score: 0.700440028822
+
+removed feature: cp_t
+alpha: 0.1
+cv score: 0.758922719565
+validset score: 0.700539002119
+
+removed feature: readability4
+alpha: 0.2
+cv score: 0.758972612825
+validset score: 0.700931908005
+
+removed feature: cp_c
+alpha: 0.1
+cv score: 0.75760844094
+validset score: 0.698915268066
+
+
+已经将特征cn_t删除
+removed feature: word_level
+alpha: 0.1
+cv score: 0.622689449689
+validset score: 0.712865958203
+
+removed feature: nunCnt
+alpha: 0.1
+cv score: 0.756883308765
+validset score: 0.700825595201
+
+removed feature: lexical_diversity
+alpha: 0.1
+cv score: 0.758716392388
+validset score: 0.700520254746
+
+removed feature: StsCnt
+alpha: 0.1
+cv score: 0.758186369113
+validset score: 0.704959801185
+
+removed feature: verbCnt
+alpha: 0.1
+cv score: 0.756901267658
+validset score: 0.69629764251
+
+removed feature: ttr1
+alpha: 0.1
+cv score: 0.751181475672
+validset score: 0.68812278695
+
+removed feature: punCnt
+alpha: 0.1
+cv score: 0.757643375627
+validset score: 0.706550137818
+
+removed feature: adjCnt
+alpha: 0.3
+cv score: 0.758289597867
+validset score: 0.702674740413
+
+removed feature: tree_npvp
+alpha: 0.1
+cv score: 0.757394912864
+validset score: 0.702143819235
+
+removed feature: tree_depth
+alpha: 0.1
+cv score: 0.749230891803
+validset score: 0.69523111875
+
+removed feature: tree_to
+alpha: 0.3
+cv score: 0.751077510856
+validset score: 0.683422289363
+
+removed feature: tree_md
+alpha: 0.4
+cv score: 0.7552616509
+validset score: 0.699691178073
+
+removed feature: cmaCnt
+alpha: 0.2
+cv score: 0.758792950013
+validset score: 0.701414871613
+
+removed feature: ttr2
+alpha: 0.1
+cv score: 0.757243697168
+validset score: 0.69416718581
+
+removed feature: readability5
+alpha: 0.1
+cv score: 0.757815704438
+validset score: 0.701867398658
+
+removed feature: tree_grammerErr
+alpha: 0.1
+cv score: 0.756122356988
+validset score: 0.690100226091
+
+removed feature: tree_jrbrs
+alpha: 0.2
+cv score: 0.758760212703
+validset score: 0.699657269804
+
+removed feature: tree_cc
+alpha: 0.2
+cv score: 0.752425450287
+validset score: 0.690151374991
+
+removed feature: tree_nodeCount
+alpha: 0.2
+cv score: 0.758640867869
+validset score: 0.702383268006
+
+removed feature: avgGErrSpan
+alpha: 0.1
+cv score: 0.758935587255
+validset score: 0.700867028595
+
+removed feature: nbDptSD
+alpha: 0.1
+cv score: 0.758316849746
+validset score: 0.700708361366
+
+removed feature: tree_wh
+alpha: 0.2
+cv score: 0.757364468353
+validset score: 0.697607613856
+
+removed feature: mlc
+alpha: 0.1
+cv score: 0.758996487185
+validset score: 0.702181186497
+
+removed feature: sErrCnt
+alpha: 0.1
+cv score: 0.757023126879
+validset score: 0.69264401478
+
+removed feature: readability3
+alpha: 0.1
+cv score: 0.758432987805
+validset score: 0.700827758154
+
+removed feature: readability1
+alpha: 0.1
+cv score: 0.757478481885
+validset score: 0.699915079067
+
+removed feature: advCnt
+alpha: 0.1
+cv score: 0.758913510258
+validset score: 0.700389763937
+
+removed feature: avgDpt
+alpha: 0.1
+cv score: 0.757885071585
+validset score: 0.704964258434
+
+removed feature: mlt
+alpha: 0.1
+cv score: 0.759035120405
+validset score: 0.700213013544
+
+removed feature: vbgCnt
+alpha: 0.1
+cv score: 0.75778992549
+validset score: 0.699555253339
+
+removed feature: gErrTypes
+alpha: 0.1
+cv score: 0.758283589296
+validset score: 0.69870627856
+
+removed feature: dc_t
+alpha: 0.1
+cv score: 0.759255286799
+validset score: 0.700590708426
+
+removed feature: ct_t
+alpha: 0.1
+cv score: 0.758690569191
+validset score: 0.701906996191
+
+removed feature: c_s
+alpha: 0.1
+cv score: 0.758148919131
+validset score: 0.703608192578
+
+removed feature: gErrSpanSum
+alpha: 0.2
+cv score: 0.757989214913
+validset score: 0.70414364591
+
+removed feature: spelling_error
+alpha: 0.2
+cv score: 0.759208051292
+validset score: 0.701778316693
+
+removed feature: dc_c
+alpha: 0.1
+cv score: 0.758716597529
+validset score: 0.70035200966
+
+removed feature: readability2
+alpha: 0.1
+cv score: 0.758716783688
+validset score: 0.701055547849
+
+removed feature: gErrDen
+alpha: 0.1
+cv score: 0.758690561341
+validset score: 0.70129851908
+
+removed feature: dptSD
+alpha: 0.1
+cv score: 0.759147164607
+validset score: 0.700586528923
+
+removed feature: c_t
+alpha: 0.1
+cv score: 0.75904260272
+validset score: 0.701267747181
+
+removed feature: vp_t
+alpha: 0.2
+cv score: 0.758034735607
+validset score: 0.702774957965
+
+removed feature: wdLen
+alpha: 0.5
+cv score: 0.756620099134
+validset score: 0.699887937152
+
+removed feature: verbal_phrases
+alpha: 0.1
+cv score: 0.758807399552
+validset score: 0.699748059774
+
+removed feature: cp_t
+alpha: 0.1
+cv score: 0.759018113459
+validset score: 0.700315305136
+
+removed feature: readability4
+alpha: 0.2
+cv score: 0.759019181668
+validset score: 0.7008922146
+
+removed feature: cp_c
+alpha: 0.1
+cv score: 0.757650713704
+validset score: 0.698785953485
+
+
+已经将特征dc_t删除
+removed feature: word_level
+alpha: 0.2
+cv score: 0.622596689146
+validset score: 0.714843958578
+
+removed feature: nunCnt
+alpha: 0.1
+cv score: 0.756956046117
+validset score: 0.70119367789
+
+removed feature: lexical_diversity
+alpha: 0.1
+cv score: 0.7589051833
+validset score: 0.700470152914
+
+removed feature: StsCnt
+alpha: 0.1
+cv score: 0.758364466216
+validset score: 0.705685199808
+
+removed feature: verbCnt
+alpha: 0.2
+cv score: 0.756952976432
+validset score: 0.697889472258
+
+removed feature: ttr1
+alpha: 0.2
+cv score: 0.751140875978
+validset score: 0.688594107403
+
+removed feature: punCnt
+alpha: 0.1
+cv score: 0.75777053741
+validset score: 0.706775200454
+
+removed feature: adjCnt
+alpha: 0.3
+cv score: 0.75827497997
+validset score: 0.702558043182
+
+removed feature: tree_npvp
+alpha: 0.1
+cv score: 0.757320903086
+validset score: 0.702379413211
+
+removed feature: tree_depth
+alpha: 0.1
+cv score: 0.749176943579
+validset score: 0.696073527938
+
+removed feature: tree_to
+alpha: 0.1
+cv score: 0.751327258367
+validset score: 0.681609980037
+
+removed feature: tree_md
+alpha: 0.3
+cv score: 0.755307305167
+validset score: 0.698307271923
+
+removed feature: cmaCnt
+alpha: 0.1
+cv score: 0.758941019517
+validset score: 0.700322244221
+
+removed feature: ttr2
+alpha: 0.1
+cv score: 0.757280669922
+validset score: 0.693805014571
+
+removed feature: readability5
+alpha: 0.1
+cv score: 0.757933735659
+validset score: 0.701870080375
+
+removed feature: tree_grammerErr
+alpha: 0.1
+cv score: 0.75607057891
+validset score: 0.690207088016
+
+removed feature: tree_jrbrs
+alpha: 0.1
+cv score: 0.758855042587
+validset score: 0.699246973506
+
+removed feature: tree_cc
+alpha: 0.1
+cv score: 0.752425009412
+validset score: 0.690010116748
+
+removed feature: tree_nodeCount
+alpha: 0.3
+cv score: 0.758760916596
+validset score: 0.703363665732
+
+removed feature: avgGErrSpan
+alpha: 0.1
+cv score: 0.75891123611
+validset score: 0.701144015434
+
+removed feature: nbDptSD
+alpha: 0.1
+cv score: 0.758310427733
+validset score: 0.700784495242
+
+removed feature: tree_wh
+alpha: 0.1
+cv score: 0.757539784295
+validset score: 0.696819384528
+
+removed feature: mlc
+alpha: 0.1
+cv score: 0.759103923838
+validset score: 0.7020805434
+
+removed feature: sErrCnt
+alpha: 0.1
+cv score: 0.756980492175
+validset score: 0.692817884374
+
+removed feature: readability3
+alpha: 0.1
+cv score: 0.758362565335
+validset score: 0.701164659527
+
+removed feature: readability1
+alpha: 0.1
+cv score: 0.757744228141
+validset score: 0.700147524814
+
+removed feature: advCnt
+alpha: 0.1
+cv score: 0.759028018285
+validset score: 0.700503820586
+
+removed feature: avgDpt
+alpha: 0.1
+cv score: 0.758159574163
+validset score: 0.704979436229
+
+removed feature: mlt
+alpha: 0.1
+cv score: 0.759175965177
+validset score: 0.700255175085
+
+removed feature: vbgCnt
+alpha: 0.1
+cv score: 0.75787117899
+validset score: 0.699219056727
+
+removed feature: gErrTypes
+alpha: 0.1
+cv score: 0.758267502816
+validset score: 0.698716679754
+
+removed feature: ct_t
+alpha: 0.1
+cv score: 0.758311424328
+validset score: 0.702725422852
+
+removed feature: c_s
+alpha: 0.2
+cv score: 0.757852295983
+validset score: 0.703750349422
+
+removed feature: gErrSpanSum
+alpha: 0.3
+cv score: 0.758095651322
+validset score: 0.703926006897
+
+removed feature: spelling_error
+alpha: 0.1
+cv score: 0.75922754571
+validset score: 0.700415840577
+
+removed feature: dc_c
+alpha: 0.1
+cv score: 0.758648666887
+validset score: 0.699741663187
+
+removed feature: readability2
+alpha: 0.1
+cv score: 0.758873841929
+validset score: 0.701052859853
+
+removed feature: gErrDen
+alpha: 0.2
+cv score: 0.758751522367
+validset score: 0.70284671649
+
+removed feature: dptSD
+alpha: 0.1
+cv score: 0.759272918698
+validset score: 0.700544624904
+
+removed feature: c_t
+alpha: 0.1
+cv score: 0.75925419319
+validset score: 0.700895603967
+
+removed feature: vp_t
+alpha: 0.1
+cv score: 0.758106181604
+validset score: 0.701684405482
+
+removed feature: wdLen
+alpha: 0.7
+cv score: 0.75658672415
+validset score: 0.700332380519
+
+removed feature: verbal_phrases
+alpha: 0.1
+cv score: 0.758875551509
+validset score: 0.699786013207
+
+removed feature: cp_t
+alpha: 0.1
+cv score: 0.759189313204
+validset score: 0.700404962869
+
+removed feature: readability4
+alpha: 0.1
+cv score: 0.758935401582
+validset score: 0.699916580797
+
+removed feature: cp_c
+alpha: 0.1
+cv score: 0.757685546297
+validset score: 0.698522643965
+
+
+已经将特征dptSD删除
+removed feature: word_level
+alpha: 0.2
+cv score: 0.622970957514
+validset score: 0.714916057065
+
+removed feature: nunCnt
+alpha: 0.1
+cv score: 0.757167488144
+validset score: 0.70103239036
+
+removed feature: lexical_diversity
+alpha: 0.1
+cv score: 0.758953934897
+validset score: 0.700392605483
+
+removed feature: StsCnt
+alpha: 0.1
+cv score: 0.758315994724
+validset score: 0.705761574177
+
+removed feature: verbCnt
+alpha: 0.2
+cv score: 0.756949423821
+validset score: 0.698015582339
+
+removed feature: ttr1
+alpha: 0.1
+cv score: 0.751117502458
+validset score: 0.687630378332
+
+removed feature: punCnt
+alpha: 0.1
+cv score: 0.757498130888
+validset score: 0.706719560269
+
+removed feature: adjCnt
+alpha: 0.3
+cv score: 0.758226674261
+validset score: 0.70246167951
+
+removed feature: tree_npvp
+alpha: 0.1
+cv score: 0.757433729119
+validset score: 0.702248617425
+
+removed feature: tree_depth
+alpha: 0.1
+cv score: 0.749134462791
+validset score: 0.695555015389
+
+removed feature: tree_to
+alpha: 0.1
+cv score: 0.751487521574
+validset score: 0.681614484336
+
+removed feature: tree_md
+alpha: 0.3
+cv score: 0.755221248929
+validset score: 0.698210307896
+
+removed feature: cmaCnt
+alpha: 0.1
+cv score: 0.758868743054
+validset score: 0.700228696522
+
+removed feature: ttr2
+alpha: 0.1
+cv score: 0.757359789685
+validset score: 0.693963087146
+
+removed feature: readability5
+alpha: 0.1
+cv score: 0.757870236232
+validset score: 0.701849245734
+
+removed feature: tree_grammerErr
+alpha: 0.1
+cv score: 0.756217067613
+validset score: 0.690621489463
+
+removed feature: tree_jrbrs
+alpha: 0.1
+cv score: 0.758831517206
+validset score: 0.699317648149
+
+removed feature: tree_cc
+alpha: 0.1
+cv score: 0.752462916826
+validset score: 0.689472768991
+
+removed feature: tree_nodeCount
+alpha: 0.2
+cv score: 0.758849837473
+validset score: 0.702722003411
+
+removed feature: avgGErrSpan
+alpha: 0.1
+cv score: 0.758965180223
+validset score: 0.701032861661
+
+removed feature: nbDptSD
+alpha: 0.3
+cv score: 0.758005201719
+validset score: 0.70114070517
+
+removed feature: tree_wh
+alpha: 0.2
+cv score: 0.757574229921
+validset score: 0.69753126916
+
+removed feature: mlc
+alpha: 0.2
+cv score: 0.759102247017
+validset score: 0.703566221925
+
+removed feature: sErrCnt
+alpha: 0.2
+cv score: 0.75712334245
+validset score: 0.694166659643
+
+removed feature: readability3
+alpha: 0.1
+cv score: 0.75830518494
+validset score: 0.701025424737
+
+removed feature: readability1
+alpha: 0.1
+cv score: 0.757764493362
+validset score: 0.700048331284
+
+removed feature: advCnt
+alpha: 0.1
+cv score: 0.759071407388
+validset score: 0.70045773397
+
+removed feature: avgDpt
+alpha: 0.1
+cv score: 0.758107881957
+validset score: 0.705013101641
+
+removed feature: mlt
+alpha: 0.1
+cv score: 0.759234033607
+validset score: 0.700286286749
+
+removed feature: vbgCnt
+alpha: 0.1
+cv score: 0.757921529522
+validset score: 0.69920004113
+
+removed feature: gErrTypes
+alpha: 0.1
+cv score: 0.758378778259
+validset score: 0.698870934586
+
+removed feature: ct_t
+alpha: 0.1
+cv score: 0.758391167697
+validset score: 0.702733777379
+
+removed feature: c_s
+alpha: 0.2
+cv score: 0.757981297101
+validset score: 0.703653208173
+
+removed feature: gErrSpanSum
+alpha: 0.1
+cv score: 0.758194496243
+validset score: 0.70403789914
+
+removed feature: spelling_error
+alpha: 0.1
+cv score: 0.75928932341
+validset score: 0.700417199309
+
+removed feature: dc_c
+alpha: 0.3
+cv score: 0.75866444455
+validset score: 0.701144490808
+
+removed feature: readability2
+alpha: 0.1
+cv score: 0.758986773362
+validset score: 0.700956422038
+
+removed feature: gErrDen
+alpha: 0.2
+cv score: 0.758928022106
+validset score: 0.70284671649
+
+removed feature: c_t
+alpha: 0.1
+cv score: 0.759335872349
+validset score: 0.70088338144
+
+removed feature: vp_t
+alpha: 0.3
+cv score: 0.758232553123
+validset score: 0.703960377862
+
+removed feature: wdLen
+alpha: 0.1
+cv score: 0.756703222339
+validset score: 0.698033822851
+
+removed feature: verbal_phrases
+alpha: 0.2
+cv score: 0.758747287803
+validset score: 0.700747788401
+
+removed feature: cp_t
+alpha: 0.1
+cv score: 0.759183518193
+validset score: 0.700428063004
+
+removed feature: readability4
+alpha: 0.2
+cv score: 0.759018177529
+validset score: 0.700763169381
+
+removed feature: cp_c
+alpha: 0.1
+cv score: 0.757825493905
+validset score: 0.69830772795
+
+
+已经将特征c_t删除
+removed feature: word_level
+alpha: 0.2
+cv score: 0.623438007091
+validset score: 0.716717557627
+
+removed feature: nunCnt
+alpha: 0.1
+cv score: 0.757288952926
+validset score: 0.700462137087
+
+removed feature: lexical_diversity
+alpha: 0.1
+cv score: 0.75918054238
+validset score: 0.701286449439
+
+removed feature: StsCnt
+alpha: 0.1
+cv score: 0.758474379407
+validset score: 0.706531368569
+
+removed feature: verbCnt
+alpha: 0.1
+cv score: 0.756849541865
+validset score: 0.697023981894
+
+removed feature: ttr1
+alpha: 0.1
+cv score: 0.751323380112
+validset score: 0.687612685375
+
+removed feature: punCnt
+alpha: 0.1
+cv score: 0.757674316843
+validset score: 0.707396839071
+
+removed feature: adjCnt
+alpha: 0.2
+cv score: 0.75841863956
+validset score: 0.701808715449
+
+removed feature: tree_npvp
+alpha: 0.3
+cv score: 0.757550413098
+validset score: 0.703018026241
+
+removed feature: tree_depth
+alpha: 0.1
+cv score: 0.749135371958
+validset score: 0.696724505073
+
+removed feature: tree_to
+alpha: 0.3
+cv score: 0.751338552074
+validset score: 0.679427969844
+
+removed feature: tree_md
+alpha: 0.3
+cv score: 0.755428192632
+validset score: 0.698809947136
+
+removed feature: cmaCnt
+alpha: 0.2
+cv score: 0.758963620161
+validset score: 0.701592137249
+
+removed feature: ttr2
+alpha: 0.1
+cv score: 0.757506303155
+validset score: 0.694803155442
+
+removed feature: readability5
+alpha: 0.1
+cv score: 0.758052774959
+validset score: 0.701852448564
+
+removed feature: tree_grammerErr
+alpha: 0.1
+cv score: 0.756427646242
+validset score: 0.690962917304
+
+removed feature: tree_jrbrs
+alpha: 0.1
+cv score: 0.758898905683
+validset score: 0.700124118051
+
+removed feature: tree_cc
+alpha: 0.1
+cv score: 0.752224977132
+validset score: 0.688706151755
+
+removed feature: tree_nodeCount
+alpha: 0.1
+cv score: 0.759098535197
+validset score: 0.701311095329
+
+removed feature: avgGErrSpan
+alpha: 0.1
+cv score: 0.759156292874
+validset score: 0.701734289901
+
+removed feature: nbDptSD
+alpha: 0.4
+cv score: 0.758184531623
+validset score: 0.701565022425
+
+removed feature: tree_wh
+alpha: 0.2
+cv score: 0.757577227525
+validset score: 0.697524386782
+
+removed feature: mlc
+alpha: 0.1
+cv score: 0.759180709697
+validset score: 0.702344932111
+
+removed feature: sErrCnt
+alpha: 0.1
+cv score: 0.757081633647
+validset score: 0.692784661854
+
+removed feature: readability3
+alpha: 0.1
+cv score: 0.75862398321
+validset score: 0.701552662786
+
+removed feature: readability1
+alpha: 0.1
+cv score: 0.757466101214
+validset score: 0.70026986732
+
+removed feature: advCnt
+alpha: 0.1
+cv score: 0.759149487494
+validset score: 0.70092283323
+
+removed feature: avgDpt
+alpha: 0.3
+cv score: 0.758269413641
+validset score: 0.705425076579
+
+removed feature: mlt
+alpha: 0.1
+cv score: 0.75933697908
+validset score: 0.69987333356
+
+removed feature: vbgCnt
+alpha: 0.1
+cv score: 0.757855613864
+validset score: 0.699443614158
+
+removed feature: gErrTypes
+alpha: 0.1
+cv score: 0.758490312096
+validset score: 0.698935301344
+
+removed feature: ct_t
+alpha: 0.1
+cv score: 0.758188817866
+validset score: 0.702480669988
+
+removed feature: c_s
+alpha: 0.1
+cv score: 0.758453885551
+validset score: 0.70334210137
+
+removed feature: gErrSpanSum
+alpha: 0.2
+cv score: 0.758333148365
+validset score: 0.703537767573
+
+removed feature: spelling_error
+alpha: 0.1
+cv score: 0.759378024396
+validset score: 0.701318369274
+
+removed feature: dc_c
+alpha: 0.1
+cv score: 0.759010000507
+validset score: 0.700244964335
+
+removed feature: readability2
+alpha: 0.1
+cv score: 0.759029620686
+validset score: 0.701375124832
+
+removed feature: gErrDen
+alpha: 0.2
+cv score: 0.758932094871
+validset score: 0.703075202136
+
+removed feature: vp_t
+alpha: 0.1
+cv score: 0.758184790343
+validset score: 0.701199790669
+
+removed feature: wdLen
+alpha: 0.7
+cv score: 0.756765047176
+validset score: 0.701112216234
+
+removed feature: verbal_phrases
+alpha: 0.1
+cv score: 0.758935779929
+validset score: 0.700428858958
+
+removed feature: cp_t
+alpha: 0.1
+cv score: 0.759424989602
+validset score: 0.700986623345
+
+removed feature: readability4
+alpha: 0.3
+cv score: 0.759081533369
+validset score: 0.702754947851
+
+removed feature: cp_c
+alpha: 0.1
+cv score: 0.757598348988
+validset score: 0.700139709239
+
+
+已经将特征cp_t删除
+removed feature: word_level
+alpha: 0.1
+cv score: 0.623459929778
+validset score: 0.715326173756
+
+removed feature: nunCnt
+alpha: 0.2
+cv score: 0.757377507867
+validset score: 0.70158698729
+
+removed feature: lexical_diversity
+alpha: 0.1
+cv score: 0.759263002151
+validset score: 0.701370076973
+
+removed feature: StsCnt
+alpha: 0.1
+cv score: 0.758651849311
+validset score: 0.706594640566
+
+removed feature: verbCnt
+alpha: 0.1
+cv score: 0.756891000946
+validset score: 0.697289259161
+
+removed feature: ttr1
+alpha: 0.1
+cv score: 0.751523121906
+validset score: 0.688143064504
+
+removed feature: punCnt
+alpha: 0.1
+cv score: 0.75775469799
+validset score: 0.707701377583
+
+removed feature: adjCnt
+alpha: 0.2
+cv score: 0.758442353215
+validset score: 0.701894696699
+
+removed feature: tree_npvp
+alpha: 0.2
+cv score: 0.757536475066
+validset score: 0.702362776268
+
+removed feature: tree_depth
+alpha: 0.1
+cv score: 0.749059921738
+validset score: 0.696204253548
+
+removed feature: tree_to
+alpha: 0.3
+cv score: 0.751280848785
+validset score: 0.678824521431
+
+removed feature: tree_md
+alpha: 0.2
+cv score: 0.755416707828
+validset score: 0.698220874432
+
+removed feature: cmaCnt
+alpha: 0.3
+cv score: 0.759069387918
+validset score: 0.702993467211
+
+removed feature: ttr2
+alpha: 0.1
+cv score: 0.757444231234
+validset score: 0.695117920911
+
+removed feature: readability5
+alpha: 0.1
+cv score: 0.758248163462
+validset score: 0.701648449577
+
+removed feature: tree_grammerErr
+alpha: 0.1
+cv score: 0.756356690981
+validset score: 0.6910696
+
+removed feature: tree_jrbrs
+alpha: 0.1
+cv score: 0.759070343313
+validset score: 0.699805841712
+
+removed feature: tree_cc
+alpha: 0.1
+cv score: 0.752432785645
+validset score: 0.688199035844
+
+removed feature: tree_nodeCount
+alpha: 0.1
+cv score: 0.759141650413
+validset score: 0.70167641143
+
+removed feature: avgGErrSpan
+alpha: 0.2
+cv score: 0.759173113733
+validset score: 0.702492129976
+
+removed feature: nbDptSD
+alpha: 0.2
+cv score: 0.758160968783
+validset score: 0.700472934279
+
+removed feature: tree_wh
+alpha: 0.1
+cv score: 0.757745598577
+validset score: 0.697363414835
+
+removed feature: mlc
+alpha: 0.1
+cv score: 0.759192381442
+validset score: 0.702276256279
+
+removed feature: sErrCnt
+alpha: 0.1
+cv score: 0.75719976587
+validset score: 0.69289183456
+
+removed feature: readability3
+alpha: 0.1
+cv score: 0.758681769264
+validset score: 0.701226487796
+
+removed feature: readability1
+alpha: 0.1
+cv score: 0.757522884998
+validset score: 0.700372031467
+
+removed feature: advCnt
+alpha: 0.1
+cv score: 0.759420304659
+validset score: 0.701050271824
+
+removed feature: avgDpt
+alpha: 0.2
+cv score: 0.758304172157
+validset score: 0.705336812336
+
+removed feature: mlt
+alpha: 0.1
+cv score: 0.759325129865
+validset score: 0.699721402039
+
+removed feature: vbgCnt
+alpha: 0.1
+cv score: 0.757950486898
+validset score: 0.699031013421
+
+removed feature: gErrTypes
+alpha: 0.1
+cv score: 0.758394826817
+validset score: 0.699068204307
+
+removed feature: ct_t
+alpha: 0.2
+cv score: 0.758239664904
+validset score: 0.703630808736
+
+removed feature: c_s
+alpha: 0.1
+cv score: 0.758544458315
+validset score: 0.703233247497
+
+removed feature: gErrSpanSum
+alpha: 0.2
+cv score: 0.758585342951
+validset score: 0.703665073168
+
+removed feature: spelling_error
+alpha: 0.1
+cv score: 0.759450193338
+validset score: 0.701096997802
+
+removed feature: dc_c
+alpha: 0.1
+cv score: 0.759054780456
+validset score: 0.700041207914
+
+removed feature: readability2
+alpha: 0.1
+cv score: 0.759203124405
+validset score: 0.701263929206
+
+removed feature: gErrDen
+alpha: 0.2
+cv score: 0.75909185735
+validset score: 0.702732607215
+
+removed feature: vp_t
+alpha: 0.1
+cv score: 0.758400756073
+validset score: 0.70115823981
+
+removed feature: wdLen
+alpha: 0.2
+cv score: 0.756772148742
+validset score: 0.697635599193
+
+removed feature: verbal_phrases
+alpha: 0.1
+cv score: 0.759057295389
+validset score: 0.700044809581
+
+removed feature: readability4
+alpha: 0.2
+cv score: 0.75931533204
+validset score: 0.702462691644
+
+removed feature: cp_c
+alpha: 0.1
+cv score: 0.75567429757
+validset score: 0.697468217265
+
+
+已经将特征spelling_error删除
+removed feature: word_level
+alpha: 0.2
+cv score: 0.623835026759
+validset score: 0.718051981871
+
+removed feature: nunCnt
+alpha: 0.1
+cv score: 0.75778387082
+validset score: 0.700712203129
+
+removed feature: lexical_diversity
+alpha: 0.1
+cv score: 0.759248761078
+validset score: 0.701398057117
+
+removed feature: StsCnt
+alpha: 0.1
+cv score: 0.758816763803
+validset score: 0.706683675512
+
+removed feature: verbCnt
+alpha: 0.1
+cv score: 0.757292229178
+validset score: 0.697843856681
+
+removed feature: ttr1
+alpha: 0.1
+cv score: 0.751965945979
+validset score: 0.688067896439
+
+removed feature: punCnt
+alpha: 0.2
+cv score: 0.758150794117
+validset score: 0.707115754261
+
+removed feature: adjCnt
+alpha: 0.1
+cv score: 0.758681850677
+validset score: 0.701046853776
+
+removed feature: tree_npvp
+alpha: 0.1
+cv score: 0.75798781025
+validset score: 0.70280445108
+
+removed feature: tree_depth
+alpha: 0.1
+cv score: 0.74893375881
+validset score: 0.696464007982
+
+removed feature: tree_to
+alpha: 0.2
+cv score: 0.751687559782
+validset score: 0.676844780186
+
+removed feature: tree_md
+alpha: 0.1
+cv score: 0.755911764236
+validset score: 0.698311458288
+
+removed feature: cmaCnt
+alpha: 0.1
+cv score: 0.759083384608
+validset score: 0.700778907081
+
+removed feature: ttr2
+alpha: 0.1
+cv score: 0.757863055923
+validset score: 0.695759544593
+
+removed feature: readability5
+alpha: 0.1
+cv score: 0.758449846294
+validset score: 0.702024501094
+
+removed feature: tree_grammerErr
+alpha: 0.1
+cv score: 0.756422688999
+validset score: 0.690859038708
+
+removed feature: tree_jrbrs
+alpha: 0.2
+cv score: 0.759108531914
+validset score: 0.701225505521
+
+removed feature: tree_cc
+alpha: 0.2
+cv score: 0.752534534208
+validset score: 0.688151232672
+
+removed feature: tree_nodeCount
+alpha: 0.1
+cv score: 0.759253420083
+validset score: 0.701882508581
+
+removed feature: avgGErrSpan
+alpha: 0.1
+cv score: 0.759304743435
+validset score: 0.701974966563
+
+removed feature: nbDptSD
+alpha: 0.2
+cv score: 0.758414290128
+validset score: 0.700605193781
+
+removed feature: tree_wh
+alpha: 0.1
+cv score: 0.757958246334
+validset score: 0.697670061915
+
+removed feature: mlc
+alpha: 0.1
+cv score: 0.759377582048
+validset score: 0.702933609006
+
+removed feature: sErrCnt
+alpha: 0.1
+cv score: 0.757838149486
+validset score: 0.695310295975
+
+removed feature: readability3
+alpha: 0.1
+cv score: 0.758807095417
+validset score: 0.701916442308
+
+removed feature: readability1
+alpha: 0.3
+cv score: 0.757814920413
+validset score: 0.700957792472
+
+removed feature: advCnt
+alpha: 0.1
+cv score: 0.75947338591
+validset score: 0.70114167991
+
+removed feature: avgDpt
+alpha: 0.2
+cv score: 0.758564276834
+validset score: 0.705826144579
+
+removed feature: mlt
+alpha: 0.1
+cv score: 0.759317930709
+validset score: 0.699809576668
+
+removed feature: vbgCnt
+alpha: 0.1
+cv score: 0.758417353701
+validset score: 0.699435268822
+
+removed feature: gErrTypes
+alpha: 0.1
+cv score: 0.758718953496
+validset score: 0.699202360768
+
+removed feature: ct_t
+alpha: 0.1
+cv score: 0.758693773937
+validset score: 0.702618053024
+
+removed feature: c_s
+alpha: 0.1
+cv score: 0.758648043867
+validset score: 0.703620107533
+
+removed feature: gErrSpanSum
+alpha: 0.1
+cv score: 0.758481097145
+validset score: 0.704215044764
+
+removed feature: dc_c
+alpha: 0.1
+cv score: 0.759133632883
+validset score: 0.700118789854
+
+removed feature: readability2
+alpha: 0.1
+cv score: 0.759424545945
+validset score: 0.701431540496
+
+removed feature: gErrDen
+alpha: 0.1
+cv score: 0.759289135885
+validset score: 0.702412436621
+
+removed feature: vp_t
+alpha: 0.4
+cv score: 0.758527126488
+validset score: 0.704132811139
+
+removed feature: wdLen
+alpha: 0.1
+cv score: 0.757161649073
+validset score: 0.697444801791
+
+removed feature: verbal_phrases
+alpha: 0.1
+cv score: 0.75905451305
+validset score: 0.700467419415
+
+removed feature: readability4
+alpha: 0.1
+cv score: 0.759676020434
+validset score: 0.701015926027
+
+removed feature: cp_c
+alpha: 0.1
+cv score: 0.755637620589
+validset score: 0.697819196761
+
+
+已经将特征readability4删除
+removed feature: word_level
+alpha: 0.2
+cv score: 0.624256492178
+validset score: 0.717932793552
+
+removed feature: nunCnt
+alpha: 0.1
+cv score: 0.757859620631
+validset score: 0.701175238319
+
+removed feature: lexical_diversity
+alpha: 0.2
+cv score: 0.75949131249
+validset score: 0.702314910134
+
+removed feature: StsCnt
+alpha: 0.5
+cv score: 0.758524718406
+validset score: 0.706173406875
+
+removed feature: verbCnt
+alpha: 0.1
+cv score: 0.757904113692
+validset score: 0.697650416056
+
+removed feature: ttr1
+alpha: 0.1
+cv score: 0.752455200233
+validset score: 0.688366045452
+
+removed feature: punCnt
+alpha: 0.2
+cv score: 0.757945011849
+validset score: 0.706269314204
+
+removed feature: adjCnt
+alpha: 0.1
+cv score: 0.759178486026
+validset score: 0.700765130618
+
+removed feature: tree_npvp
+alpha: 0.2
+cv score: 0.758201944672
+validset score: 0.702610889298
+
+removed feature: tree_depth
+alpha: 0.1
+cv score: 0.749411601258
+validset score: 0.696061074905
+
+removed feature: tree_to
+alpha: 0.1
+cv score: 0.752393043229
+validset score: 0.675240270023
+
+removed feature: tree_md
+alpha: 0.1
+cv score: 0.756296736398
+validset score: 0.698362844423
+
+removed feature: cmaCnt
+alpha: 0.1
+cv score: 0.759562273109
+validset score: 0.701283023826
+
+removed feature: ttr2
+alpha: 0.2
+cv score: 0.758143470465
+validset score: 0.695848949125
+
+removed feature: readability5
+alpha: 0.1
+cv score: 0.758490252505
+validset score: 0.701581832113
+
+removed feature: tree_grammerErr
+alpha: 0.1
+cv score: 0.756445157827
+validset score: 0.690176357267
+
+removed feature: tree_jrbrs
+alpha: 0.2
+cv score: 0.75930396166
+validset score: 0.700885156861
+
+removed feature: tree_cc
+alpha: 0.1
+cv score: 0.753423412954
+validset score: 0.688003353909
+
+removed feature: tree_nodeCount
+alpha: 0.1
+cv score: 0.759348372531
+validset score: 0.701691943329
+
+removed feature: avgGErrSpan
+alpha: 0.1
+cv score: 0.759507147359
+validset score: 0.701336023851
+
+removed feature: nbDptSD
+alpha: 0.1
+cv score: 0.758332988481
+validset score: 0.699994959809
+
+removed feature: tree_wh
+alpha: 0.1
+cv score: 0.758044332177
+validset score: 0.697324481589
+
+removed feature: mlc
+alpha: 0.1
+cv score: 0.759607301141
+validset score: 0.702202438771
+
+removed feature: sErrCnt
+alpha: 0.2
+cv score: 0.758706704388
+validset score: 0.695474313433
+
+removed feature: readability3
+alpha: 0.1
+cv score: 0.759329371707
+validset score: 0.70175567254
+
+removed feature: readability1
+alpha: 0.2
+cv score: 0.757954839377
+validset score: 0.700204965143
+
+removed feature: advCnt
+alpha: 0.1
+cv score: 0.759656890845
+validset score: 0.700987073494
+
+removed feature: avgDpt
+alpha: 0.1
+cv score: 0.75876657151
+validset score: 0.706115948129
+
+removed feature: mlt
+alpha: 0.2
+cv score: 0.759733496354
+validset score: 0.70000427471
+
+removed feature: vbgCnt
+alpha: 0.1
+cv score: 0.758735430872
+validset score: 0.699127238842
+
+removed feature: gErrTypes
+alpha: 0.1
+cv score: 0.759191181725
+validset score: 0.698789624897
+
+removed feature: ct_t
+alpha: 0.1
+cv score: 0.758389610393
+validset score: 0.702699149675
+
+removed feature: c_s
+alpha: 0.1
+cv score: 0.758593149213
+validset score: 0.703874591889
+
+removed feature: gErrSpanSum
+alpha: 0.1
+cv score: 0.7587400287
+validset score: 0.703888906204
+
+removed feature: dc_c
+alpha: 0.5
+cv score: 0.759115986525
+validset score: 0.702555793623
+
+removed feature: readability2
+alpha: 0.4
+cv score: 0.75690554651
+validset score: 0.699439865004
+
+removed feature: gErrDen
+alpha: 0.1
+cv score: 0.759703623956
+validset score: 0.702450360696
+
+removed feature: vp_t
+alpha: 0.1
+cv score: 0.758627355617
+validset score: 0.700757350762
+
+removed feature: wdLen
+alpha: 0.1
+cv score: 0.75733634077
+validset score: 0.696778038009
+
+removed feature: verbal_phrases
+alpha: 0.1
+cv score: 0.759293024253
+validset score: 0.700372669695
+
+removed feature: cp_c
+alpha: 0.2
+cv score: 0.755731661954
+validset score: 0.697597084071
+
+
+已经将特征mlt删除
+removed feature: word_level
+alpha: 0.2
+cv score: 0.624771686168
+validset score: 0.714916172548
+
+removed feature: nunCnt
+alpha: 0.1
+cv score: 0.757958699579
+validset score: 0.699672597153
+
+removed feature: lexical_diversity
+alpha: 0.2
+cv score: 0.759533380679
+validset score: 0.70070525809
+
+removed feature: StsCnt
+alpha: 0.2
+cv score: 0.758846694713
+validset score: 0.704739867527
+
+removed feature: verbCnt
+alpha: 0.1
+cv score: 0.758096123225
+validset score: 0.695913881819
+
+removed feature: ttr1
+alpha: 0.1
+cv score: 0.752504500633
+validset score: 0.685600223511
+
+removed feature: punCnt
+alpha: 0.5
+cv score: 0.758140989536
+validset score: 0.706026177702
+
+removed feature: adjCnt
+alpha: 0.1
+cv score: 0.75928487082
+validset score: 0.698197846921
+
+removed feature: tree_npvp
+alpha: 0.1
+cv score: 0.758207619571
+validset score: 0.701822692668
+
+removed feature: tree_depth
+alpha: 0.1
+cv score: 0.749282790251
+validset score: 0.697377115357
+
+removed feature: tree_to
+alpha: 0.1
+cv score: 0.752271232028
+validset score: 0.677283285013
+
+removed feature: tree_md
+alpha: 0.1
+cv score: 0.756336253575
+validset score: 0.696931398556
+
+removed feature: cmaCnt
+alpha: 0.2
+cv score: 0.759493644356
+validset score: 0.699682519892
+
+removed feature: ttr2
+alpha: 0.1
+cv score: 0.758418448305
+validset score: 0.693001260486
+
+removed feature: readability5
+alpha: 0.2
+cv score: 0.758549916398
+validset score: 0.701692293916
+
+removed feature: tree_grammerErr
+alpha: 0.4
+cv score: 0.756686869662
+validset score: 0.69057361284
+
+removed feature: tree_jrbrs
+alpha: 0.1
+cv score: 0.759210372234
+validset score: 0.698724537198
+
+removed feature: tree_cc
+alpha: 0.1
+cv score: 0.753706869682
+validset score: 0.68929732996
+
+removed feature: tree_nodeCount
+alpha: 0.1
+cv score: 0.759233661744
+validset score: 0.699202273283
+
+removed feature: avgGErrSpan
+alpha: 0.1
+cv score: 0.75969533517
+validset score: 0.699706569902
+
+removed feature: nbDptSD
+alpha: 0.2
+cv score: 0.7587666987
+validset score: 0.699436960325
+
+removed feature: tree_wh
+alpha: 0.1
+cv score: 0.758070825968
+validset score: 0.69651990681
+
+removed feature: mlc
+alpha: 0.1
+cv score: 0.759870008103
+validset score: 0.701061126021
+
+removed feature: sErrCnt
+alpha: 0.3
+cv score: 0.758449790392
+validset score: 0.695045109243
+
+removed feature: readability3
+alpha: 0.1
+cv score: 0.759255414525
+validset score: 0.699924621585
+
+removed feature: readability1
+alpha: 0.2
+cv score: 0.758177630367
+validset score: 0.698635794069
+
+removed feature: advCnt
+alpha: 0.2
+cv score: 0.759740154864
+validset score: 0.700213321944
+
+removed feature: avgDpt
+alpha: 0.1
+cv score: 0.758958160187
+validset score: 0.705395861065
+
+removed feature: vbgCnt
+alpha: 0.1
+cv score: 0.758821511524
+validset score: 0.698412065603
+
+removed feature: gErrTypes
+alpha: 0.1
+cv score: 0.759085180191
+validset score: 0.697299489788
+
+removed feature: ct_t
+alpha: 0.1
+cv score: 0.758769486465
+validset score: 0.703078327473
+
+removed feature: c_s
+alpha: 0.3
+cv score: 0.758695014469
+validset score: 0.704271392905
+
+removed feature: gErrSpanSum
+alpha: 0.1
+cv score: 0.75885390806
+validset score: 0.702970157162
+
+removed feature: dc_c
+alpha: 0.3
+cv score: 0.759231379917
+validset score: 0.699678370536
+
+removed feature: readability2
+alpha: 0.4
+cv score: 0.757413479579
+validset score: 0.699908785106
+
+removed feature: gErrDen
+alpha: 0.1
+cv score: 0.75987819069
+validset score: 0.69958410498
+
+removed feature: vp_t
+alpha: 0.1
+cv score: 0.758670883281
+validset score: 0.700867888256
+
+removed feature: wdLen
+alpha: 0.1
+cv score: 0.757538164018
+validset score: 0.696469433143
+
+removed feature: verbal_phrases
+alpha: 0.1
+cv score: 0.75924474065
+validset score: 0.699269977884
+
+removed feature: cp_c
+alpha: 0.1
+cv score: 0.75612075309
+validset score: 0.69738954183
+
+
+已经将特征gErrDen删除
+removed feature: word_level
+alpha: 0.1
+cv score: 0.624812940626
+validset score: 0.713331523229
+
+removed feature: nunCnt
+alpha: 0.1
+cv score: 0.758055687156
+validset score: 0.69988261935
+
+removed feature: lexical_diversity
+alpha: 0.1
+cv score: 0.759706195931
+validset score: 0.700316200867
+
+removed feature: StsCnt
+alpha: 0.1
+cv score: 0.75880939443
+validset score: 0.70456303095
+
+removed feature: verbCnt
+alpha: 0.1
+cv score: 0.757948631395
+validset score: 0.697365364123
+
+removed feature: ttr1
+alpha: 0.1
+cv score: 0.752528622579
+validset score: 0.686468507294
+
+removed feature: punCnt
+alpha: 0.2
+cv score: 0.758230639513
+validset score: 0.706171860479
+
+removed feature: adjCnt
+alpha: 0.2
+cv score: 0.759255454205
+validset score: 0.700791863214
+
+removed feature: tree_npvp
+alpha: 0.1
+cv score: 0.758297787304
+validset score: 0.701990571272
+
+removed feature: tree_depth
+alpha: 0.1
+cv score: 0.748844705422
+validset score: 0.69672670982
+
+removed feature: tree_to
+alpha: 0.1
+cv score: 0.75220698627
+validset score: 0.679183734627
+
+removed feature: tree_md
+alpha: 0.1
+cv score: 0.756446690091
+validset score: 0.69779727361
+
+removed feature: cmaCnt
+alpha: 0.1
+cv score: 0.759618569183
+validset score: 0.699864993993
+
+removed feature: ttr2
+alpha: 0.1
+cv score: 0.758356279583
+validset score: 0.693559409206
+
+removed feature: readability5
+alpha: 0.1
+cv score: 0.758567733535
+validset score: 0.701868324071
+
+removed feature: tree_grammerErr
+alpha: 0.1
+cv score: 0.755241548457
+validset score: 0.689576095256
+
+removed feature: tree_jrbrs
+alpha: 0.1
+cv score: 0.759257148007
+validset score: 0.699178695971
+
+removed feature: tree_cc
+alpha: 0.1
+cv score: 0.753736978128
+validset score: 0.688854131225
+
+removed feature: tree_nodeCount
+alpha: 0.1
+cv score: 0.759347678814
+validset score: 0.699996907043
+
+removed feature: avgGErrSpan
+alpha: 0.1
+cv score: 0.759715910081
+validset score: 0.700223423847
+
+removed feature: nbDptSD
+alpha: 0.2
+cv score: 0.758862706882
+validset score: 0.699974626975
+
+removed feature: tree_wh
+alpha: 0.2
+cv score: 0.758028443247
+validset score: 0.697390107366
+
+removed feature: mlc
+alpha: 0.1
+cv score: 0.759702500024
+validset score: 0.701733684067
+
+removed feature: sErrCnt
+alpha: 0.1
+cv score: 0.757713375073
+validset score: 0.694560988912
+
+removed feature: readability3
+alpha: 0.1
+cv score: 0.759451346495
+validset score: 0.699983838791
+
+removed feature: readability1
+alpha: 0.2
+cv score: 0.758326145374
+validset score: 0.698916186662
+
+removed feature: advCnt
+alpha: 0.1
+cv score: 0.759709057331
+validset score: 0.699401044561
+
+removed feature: avgDpt
+alpha: 0.1
+cv score: 0.759165803329
+validset score: 0.705529384742
+
+removed feature: vbgCnt
+alpha: 0.1
+cv score: 0.758873557419
+validset score: 0.699029578676
+
+removed feature: gErrTypes
+alpha: 0.1
+cv score: 0.759492956323
+validset score: 0.697730002448
+
+removed feature: ct_t
+alpha: 0.1
+cv score: 0.758461363619
+validset score: 0.70419294127
+
+removed feature: c_s
+alpha: 0.1
+cv score: 0.758962276652
+validset score: 0.704095894377
+
+removed feature: gErrSpanSum
+alpha: 0.1
+cv score: 0.758938148742
+validset score: 0.70314520099
+
+removed feature: dc_c
+alpha: 0.1
+cv score: 0.759323060368
+validset score: 0.698920730575
+
+removed feature: readability2
+alpha: 0.7
+cv score: 0.75727647215
+validset score: 0.701019632197
+
+removed feature: vp_t
+alpha: 0.1
+cv score: 0.758743643627
+validset score: 0.702112139821
+
+removed feature: wdLen
+alpha: 0.2
+cv score: 0.757560483478
+validset score: 0.697414256962
+
+removed feature: verbal_phrases
+alpha: 0.1
+cv score: 0.759406082209
+validset score: 0.699225793047
+
+removed feature: cp_c
+alpha: 0.1
+cv score: 0.756183135344
+validset score: 0.697745633312
+
